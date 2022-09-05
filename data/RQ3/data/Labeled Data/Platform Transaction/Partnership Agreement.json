@@ -1,0 +1,31 @@
+[
+    {
+        "tokens": ["The", "purchase", "price", "of", "the", "decedent", "'s", "interest", "in", "the", "partnership", "shall", "be", "the", "latter", "'s", "capital", "amount", "at", "the", "time", "of", "the", "death", "of", "the", "decedent", "plus", "the", "decedent", "'s", "income", "account", "at", "the", "end", "of", "the", "prior", "fiscal", "year", ",", "with", "addition", "to", "profits", "from", "the", "partnership", ",", "and", "deductions", "from", "partnership", "losses", "for", "the", "start", "of", "the", "fiscal", "year", "of", "the", "incident", "of", "death", "until", "the", "end", "of", "the", "calendar", "month", "of", "the", "occurrence", "of", "death", "."],
+        "events":[
+            {
+                "index": [0,55]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [56,67]
+            },
+            {
+                "index" : [68,79]
+            }
+        ]
+    },
+    {
+        "tokens": ["Notices", "sent", "as", "above", "shall", "be", "deemed", "to", "have", "been", "received", "3", "working", "days", "after", "the", "day", "of", "posting", "."],
+        "events":[
+            {
+                "index": [0,14]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [15,19]
+            }
+        ]
+    }
+]

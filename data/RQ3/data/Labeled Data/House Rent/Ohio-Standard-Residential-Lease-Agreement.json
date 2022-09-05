@@ -1,0 +1,146 @@
+[
+  {
+    "tokens": ["In", "the", "event", "that", "Landlord", "accepts", "new", "rent", "from", "Tenant", "after", "the", "termination", "date", ",", "a", "month-to", "month", "tenancy", "shall", "be", "created", "."],
+    "events": [
+      {
+        "index": [4,10]
+      },
+      {
+        "index": [15,22]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [11,14]
+      }
+    ]
+  },
+  {
+    "tokens": ["Upon", "termination", "of", "the", "tenancy", ",", "all", "funds", "held", "by", "the", "landlord", "as", "security", "deposit", "may", "be", "applied", "to", "the", "payment", "of", "accrued", "rent", "and", "the", "amount", "of", "damages", "that", "the", "landlord", "has", "suffered", "by", "reason", "of", "the", "tenant", "'s", "noncompliance", "with", "the", "terms", "of", "this", "Ohio", "Lease", "Agreement", "or", "with", "any", "and", "all", "laws", ",", "ordinances", ",", "rules", "and", "orders", "of", "any", "and", "all", "governmental", "or", "quasi-governmental", "authorities", "affecting", "the", "cleanliness", ",", "use", ",", "occupancy", "and", "preservation", "of", "the", "Premises", "."],
+    "events": [
+      {
+        "index": [6,81]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [1,5]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "deductions", "exceed", "the", "security", "deposit", ",", "Tenant", "will", "pay", "to", "Landlord", "the", "excess", "within", "ten", "days", "after", "Landlord", "makes", "written", "demand", "."],
+    "events": [
+      {
+        "index": [18,22]
+      },
+      {
+        "index": [1,6]
+      },
+      {
+        "index": [7,14]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [15,17]
+      }
+    ]
+  },
+  {
+    "tokens": ["In", "the", "event", "Landlord", "can", "not", "deliver", "possession", "of", "the", "Premises", "to", "Tenant", "upon", "the", "commencement", "of", "the", "Lease", "term", ",", "then", "Landlord", "or", "its", "agents", "shall", "have", "no", "liability", "."],
+    "events": [
+      {
+        "index": [3,13]
+      },
+      {
+        "index": [21,30]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [14,20]
+      }
+    ]
+  },
+  {
+    "tokens": ["if", "possession", "is", "tendered", "within", "such", "time", ",", "Tenant", "agrees", "to", "accept", "the", "demised", "Premises", "and", "pay", "the", "rental", "herein", "."],
+    "events": [
+      {
+        "index": [1,4]
+      },
+      {
+        "index": [8,20]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [5,7]
+      }
+    ]
+  },
+  {
+    "tokens": ["In", "the", "event", "possession", "can", "not", "be", "delivered", "within", "such", "time", ",", "then", "this", "Agreement", "and", "all", "rights", "hereunder", "shall", "terminate", "."],
+    "events": [
+      {
+        "index": [3,8]
+      },
+      {
+        "index": [12,21]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [9,11]
+      }
+    ]
+  },
+  {
+    "tokens": ["Tenant", "will", ",", "at", "its", "sole", "expense", ",", "keep", "and", "maintain", "the", "Premises", "and", "appurtenances", "in", "good", "and", "sanitary", "condition", "and", "repair", "during", "the", "term", "of", "this", "Ohio", "Lease", "Agreement", "and", "any", "renewal", "thereof", "."],
+    "events": [
+      {
+        "index": [0,22]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [23,34]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "Tenant", "fails", "to", "comply", "with", "any", "of", "the", "material", "provisions", "of", "this", "Ohio", "Lease", "Agreement", ",", "other", "than", "the", "covenant", "to", "pay", "rent", ",", "or", "of", "any", "present", "rules", "and", "regulations", "or", "any", "that", "may", "be", "hereafter", "prescribed", "by", "Landlord", ",", "or", "materially", "fails", "to", "comply", "with", "any", "duties", "imposed", "on", "Tenant", "by", "statute", ",", "within", "seven", "(", "7", ")", "days", "after", "delivery", "of", "written", "notice", "by", "Landlord", "specifying", "the", "noncompliance", "and", "indicating", "the", "intention", "of", "Landlord", "to", "terminate", "the", "Lease", "by", "reason", "thereof", ",", "Landlord", "may", "terminate", "this", "Ohio", "Lease", "Agreement", "."],
+    "events": [
+      {
+        "index": [63,85]
+      },
+      {
+        "index": [1,55]
+      },
+      {
+        "index": [86,93]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [57,62]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "Tenant", "abandons", "the", "Premises", "or", "any", "part", "thereof", "at", "any", "time", "during", "the", "term", "of", "this", "Ohio", "Lease", "Agreement", ",", "Landlord", "may", ",", "at", "Landlord", "'s", "option", ",", "obtain", "possession", "of", "the", "Premises", "in", "the", "manner", "provided", "by", "law", ",", "and", "without", "becoming", "liable", "to", "Tenant", "for", "damages", "or", "for", "any", "payment", "of", "any", "kind", "whatever", "."],
+    "events": [
+      {
+        "index": [1,12]
+      },
+      {
+        "index": [21,57]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [13,20]
+      }
+    ]
+  }
+]

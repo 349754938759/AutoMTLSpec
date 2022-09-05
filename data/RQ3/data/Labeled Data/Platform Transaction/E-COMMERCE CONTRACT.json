@@ -1,0 +1,166 @@
+[
+    {
+        "tokens": ["Vendor", "appoints", "Company", "as", "Vendor", "'", "s", "non-exclusive", "worldwide", "distributor", "and", "subject", "to", "all", "terms", "and", "conditions", "of", "this", "Agreement", "during", "the", "term", "of", "this", "Agreement", "."],
+        "events":[
+            {
+                "index": [0,20]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [21,26]
+            }
+        ]
+    },
+    {
+        "tokens": ["Vendor", "grants", "to", "Company", "a", "non-exclusive", ",", "non-transferrable", "license", "and", "subject", "to", "all", "terms", "and", "conditions", "of", "this", "Agreement", "during", "the", "term", "of", "this", "Agreement", "."],
+        "events":[
+            {
+                "index": [0,19]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [20,25]
+            }
+        ]
+    },
+    {
+        "tokens": ["During", "the", "term", "of", "this", "Agreement", ",", "Vendor", "agrees", "to", "deliver", "to", "Company", ",", "for", "transmission", "to", "Licensees", "by", "Company", ",", "such", "copies", "of", "updates", ",", "enhancements", ",", "bug-fixes", "and", "corrections", "to", "or", "of", "the", "Products", ",", "in", "object", "code", "form", ",", "that", "Vendor", "may", "make", "available", "from", "time", "to", "time", "in", "Vendor", "'s", "sole", "discretion", "."],
+        "events":[
+            {
+                "index": [7,56]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,6]
+            }
+        ]
+    },
+    {
+        "tokens": ["Company", "shall", "pay", "Vendor", "royalties", "for", "ticense", "of", "each", "of", "the", "Products", "to", "Licensees", "in", "the", "amounts", "calculated", "pursuant", "to", "the", "formulae", "set", "forth", "at", "Exhibit", "E", "(", "``", "Royalties", "''", ")", ",", "due", "and", "payable", "within", "thirty", "(", "30", ")", "days", "following", "the", "end", "of", "each", "calendar", "quarter", "."],
+        "events":[
+            {
+                "index": [43,49]
+            },
+            {
+                "index": [0,36]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [37,42]
+            }
+        ]
+    },
+    {
+        "tokens": ["Company", "agrees", "that", "it", "will", "achieve", "the", "Quota", "for", "Royalties", "paid", "to", "Vendor", "from", "Company", "'s", "licensing", "of", "the", "Products", "to", "Licensees", "from", "or", "via", "the", "Site", "during", "each", "successive", "twelve", "(", "12", ")", "month", "period", "after", "the", "effective", "date", "of", "this", "Agreement", "."],
+        "events":[
+            {
+                "index": [37,43]
+            },
+            {
+                "index": [0,27]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [28,36]
+            }
+        ]
+    },
+    {
+        "tokens": ["The", "term", "``", "Quota", "''", "means", "all", "Royalties", "actually", "paid", "to", "Company", "during", "the", "twelve", "(", "12", ")", "month", "period", "."],
+        "events":[
+            {
+                "index": [0,12]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [13,20]
+            }
+        ]
+    },
+    {
+        "tokens": ["The", "Quota", "for", "subsequent", "twelve", "(", "12", ")", "month", "periods", "will", "be", "set", "by", "the", "Vendor", "upon", "ninety", "(", "90", ")", "days", "prior", "written", "notice", "."],
+        "events":[
+            {
+                "index": [23,25]
+            },
+            {
+                "index": [0,16]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [17,22]
+            }
+        ]
+    },
+    {
+        "tokens": ["In", "case", "of", "failure", "of", "the", "Vendor", "to", "otherwise", "notify", "the", "Company", ",", "the", "Quota", "will", "be", "equal", "to", "one", "hundred", "and", "fifteen", "percent", "(", "115", "%", ")", "of", "the", "Quota", "during", "the", "previous", "twelve", "(", "12", ")", "month", "period", "."],
+        "events":[
+            {
+                "index": [3,12]
+            },
+            {
+                "index": [13,31]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [32,40]
+            }
+        ]
+    },
+    {
+        "tokens": ["If", "Company", "fails", "to", "achieve", "the", "Quota", "in", "any", "twelve", "(", "12", ")", "month", "period", ",", "Vendor", "may", "terminate", "this", "Agreement", "upon", "ninety", "(", "90", ")", "days", "prior", "witten", "notice", "to", "Vendor", "."],
+        "events":[
+            {
+                "index": [28,32]
+            },
+            {
+                "index": [1,15]
+            },
+            {
+                "index": [16,27]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [22,27]
+            }
+        ]
+    },
+    {
+        "tokens": ["Within", "thirty", "(", "30", ")", "days", "after", "the", "end", "of", "each", "calendar", "quarter", ",", "any", "unpaid", "Royalties", "shall", "accrue", "interest", "at", "one", "and", "one", "half", "percent", "(", "1.5", "%", ")", "per", "month", "."],
+        "events":[
+            {
+                "index": [7,13]
+            },
+            {
+                "index": [14,32]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,13]
+            }
+        ]
+    },
+    {
+        "tokens": ["Throughout", "the", "term", "of", "this", "Agreement", ",", "Vendor", "shall", "have", "the", "right", "to", "have", "its", "auditors", "examine", "the", "Records", "for", "the", "sole", "purpose", "of", "certifying", "the", "accuracy", "of", "Reports", ",", "determining", "the", "amount", "of", "Royalties", "due", ",", "if", "any", ",", "to", "Vendor", "and/or", "verifying", "Licensees", "of", "any", "Products", "."],
+        "events":[
+            {
+                "index": [7,48]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,6]
+            }
+        ]
+    }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "tokens": ["If", "Tenant", "fails", "to", "give", "the", "notice", "required", "by", "Section", "17", "below", "prior", "to", "expiration", "of", "the", "term", ",", "the", "term", "of", "this", "Agreement", "will", "be", "extended", "on", "a", "month-to-month", "basis", "thereafter", "."],
+    "events": [
+      {
+        "index": [1,12]
+      },
+      {
+        "index": [19,32]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [14,18]
+      }
+    ]
+  },
+  {
+    "tokens": ["In", "the", "event", "Tenant", "fails", "to", "pay", "rent", "when", "due", ",", "Tenant", "shall", "pay", "a", "late", "fee", "of", "$", "plus", "$", "per", "day", "for", "each", "day", "after", "days", "that", "the", "sum", "was", "due", "."],
+    "events": [
+      {
+        "index": [3,10]
+      },
+      {
+        "index": [11,26]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [27,33]
+      }
+    ]
+  },
+  {
+    "tokens": ["Upon", "execution", "of", "this", "Agreement", ",", "Tenant", "shall", "deposit", "with", "Property", "Manager", "as", "a", "Security", "Deposit", "the", "sum", "stated", "in", "Section", "1", "."],
+    "events": [
+      {
+        "index": [6,22]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [1,5]
+      }
+    ]
+  },
+  {
+    "tokens": ["during", "the", "term", "of", "this", "Agreement", ",", "the", "Landlord", "may", "claim", ",", "from", "the", "Security", "Deposit", ",", "such", "amounts", "due", "to", "Landlord", "under", "this", "Agreement", "."],
+    "events": [
+      {
+        "index": [7,25]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [1,6]
+      }
+    ]
+  },
+  {
+    "tokens": ["Upon", "termination", "of", "the", "tenancy", ",", "Tenant", "agrees", "to", "provide", "Landlord", "with", "a", "forwarding", "address", "to", "prevent", "a", "delay", "in", "receiving", "the", "accounting", "and", "any", "refund", "."],
+    "events": [
+      {
+        "index": [1,5]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [6,26]
+      }
+    ]
+  },
+  {
+    "tokens": ["Upon", "execution", "of", "the", "Agreement", ",", "Tenant", "shall", "receive", "the", "following", ":"],
+    "events": [
+      {
+        "index": [1,5]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [6,11]
+      }
+    ]
+  },
+  {
+    "tokens": ["Tenant", "shall", "make", "a", "key", "deposit", "(", "if", "any", ")", "in", "the", "amount", "set", "fourth", "in", "Section", "1", "upon", "execution", "of", "this", "Agreement", "."],
+    "events": [
+      {
+        "index": [0,18]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [19,23]
+      }
+    ]
+  },
+  {
+    "tokens": ["For", "all", "utilities", "marked", "with", "a", "``", "T", "''", ",", "Tenant", "is", "responsible", "for", "connecting", "these", "utilities", "in", "Tenant", "'s", "name", "immediately", "upon", "commencement", "of", "this", "Agreement", "."],
+    "events": [
+      {
+        "index": [0,22]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [23,27]
+      }
+    ]
+  },
+  {
+    "tokens": ["Property", "Manager", "will", "invoice", "Tenant", "monthly", "for", "Special", "Utilities", ",", "and", "payment", "of", "each", "invoice", "is", "due", "within", "fifteen", "(", "15", ")", "days", "of", "the", "date", "of", "an", "invoice", "."],
+    "events": [
+      {
+        "index": [24,29]
+      },
+      {
+        "index": [0,17]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [18,23]
+      }
+    ]
+  },
+  {
+    "tokens": ["Such", "notice", "shall", "be", "in", "writing", "and", "shall", "be", "provided", "to", "Property", "Manager", "prior", "to", "the", "first", "day", "of", "the", "last", "month", "of", "the", "lease", "term", "set", "in", "Section", "3", "of", "this", "Agreement", "."],
+    "events": [
+      {
+        "index": [0,13]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [15,33]
+      }
+    ]
+  },
+  {
+    "tokens": ["Upon", "termination", "of", "the", "tenancy", ",", "Tenant", "shall", "surrender", "and", "vacate", "the", "Premises", "and", "shall", "remove", "all", "personal", "property", "except", "for", "personal", "property", "belonging", "to", "Landlord", "."],
+    "events": [
+      {
+        "index": [6,26]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [1,5]
+      }
+    ]
+  },
+  {
+    "tokens": ["Tenant", "agrees", "to", "make", "such", "report", "immediately", "and", "in", "any", "case", "within", "24", "hours", "of", "the", "occurrence", "."],
+    "events": [
+      {
+        "index": [15,17]
+      },
+      {
+        "index": [0,11]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [12,14]
+      }
+    ]
+  },
+  {
+    "tokens": ["Tenant", "agrees", "to", "test", "smoke", "detector", "(", "s", ")", "within", "one", "(", "1", ")", "hour", "after", "execution", "of", "this", "Agreement", "."],
+    "events": [
+      {
+        "index": [16,20]
+      },
+      {
+        "index": [0,9]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [10,15]
+      }
+    ]
+  }
+]

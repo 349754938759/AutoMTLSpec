@@ -1,0 +1,127 @@
+[
+	{
+		"tokens": ["BUYERS", "agree", "upon", "acceptance", "of", "this", "offer", "to", "make", "application", "for", "such", "mortgage", "with", "a", "commercial", "mortgage", "lender", "and", "to", "exercise", "good", "faith", "efforts", "to", "obtain", "a", "mortgage", "commitment", "as", "above", "provided", "within", "three", "(", "3", ")", "business", "days", "."],
+		"events":[
+			{
+				"index": [0,32]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [33,39]
+			}
+    	]
+	},
+	{
+		"tokens": ["If", "BUYERS", "have", "not", "delivered", "a", "written", "financing", "contingency", ",", "release", "containing", "the", "above", "terms", ",", "or", "terms", "acceptable", "to", "SELLERS", "on", "or", "before", "__", "."],
+		"events":[
+			{
+				"index": [1,9]
+			},
+			{
+				"index": [10,21]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [24,25]
+			}
+    	]
+	},
+	{
+		"tokens": ["Unless", "sale", "and", "settlement", "of", "BUYERS", "'", "property", "is", "made", "within", "five", "(", "5", ")", "business", "days", "of", "such", "notice", ",", "then", "this", "Agreement", "shall", "be", "null", "and", "void", "."],
+		"events":[
+			{
+				"index": [18,20]
+			},
+			{
+				"index": [21,29]
+			},
+			{
+				"index": [1,10]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [11,17]
+			}
+    	]
+	},
+	{
+		"tokens": ["IF", "THE", "SELLERS", "FAIL", "TO", "RESPOND", "TO", "THE", "BUYERS", "'", "REMEDY", "REQUEST", "WITHIN", "THE", "TIME", "SPECIFIED", "HEREIN", ",", "BUYERS", "MAY", "DECLARE", "THE", "OFFER", "NULL", "AND", "VOID", "AND", "ALL", "EARNEST", "MONEY", "SHALL", "BE", "RETURNED", "."],
+		"events":[
+			{
+				"index": [1,12]
+			},
+			{
+				"index": [18,33]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [13,17]
+			}
+    	]
+	},
+	{
+		"tokens": ["The", "cost", "of", "mitigation", ",", "if", "necessary", ",", "shall", "be", "negotiated", "within", "the", "time", "frames", "."],
+		"events":[
+			{
+				"index": [0,11]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [12,15]
+			}
+    	]
+	},
+	{
+		"tokens": ["In", "the", "event", "of", "substantial", "damage", "or", "destruction", "prior", "to", "closing", ",", "this", "Purchase", "Agreement", "shall", "be", "null", "and", "void", "."],
+		"events":[
+			{
+				"index": [4,8]
+			},
+			{
+				"index": [12,20]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [10,11]
+			}
+    	]
+	},
+	{
+		"tokens": ["If", "BUYERS", "intend", "to", "assume", "or", "take", "subject", "to", "a", "lien", "on", "the", "Property", ",", "prior", "to", "closing", "SELLERS", "shall", "furnish", "BUYERS", "with", "a", "written", "statement", "from", "the", "holder", "of", "such", "lien", ",", "showing", "the", "correct", "balance", "due", "."],
+		"events":[
+			{
+				"index": [1,14]
+			},
+			{
+				"index": [18,38]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [17,18]
+			}
+    	]
+	},
+	{
+		"tokens": ["The", "BUYERS", "may", "have", "the", "Property", "surveyed", "at", "their", "expense", "within", "__", "days", "of", "acceptance", "of", "offer", "."],
+		"events":[
+			{
+				"index": [14,17]
+			},
+			{
+				"index": [0,10]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [11,13]
+			}
+    	]
+	}
+]

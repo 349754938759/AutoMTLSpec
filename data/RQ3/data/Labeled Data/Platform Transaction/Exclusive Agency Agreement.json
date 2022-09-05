@@ -1,0 +1,118 @@
+[
+    {
+        "tokens": ["Party", "B", "shall", "undertake", "to", "solicit", "orders", "for", "the", "above", "commodity", "from", "customers", "in", "the", "above", "territory", "for", "not", "less", "than", "RMB______", "during", "the", "effective", "period", "of", "this", "agreement", "."],
+        "events":[
+            {
+                "index": [0,22]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [23,29]
+            }
+        ]
+    },
+    {
+        "tokens": ["Party", "A", "shall", "refer", "to", "Party", "B", "any", "enquiries", "or", "orders", "for", "the", "commodity", "in", "question", "received", "by", "Party", "A", "from", "other", "firms", "in", "territory", "during", "the", "validity", "of", "this", "agreement", "."],
+        "events":[
+            {
+                "index": [0,25]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [26,31]
+            }
+        ]
+    },
+    {
+        "tokens": ["Within", "the", "validity", "of", "this", "agreement", ",", "Party", "A", "shall", "bear", "all", "expenses", "for", "advertising", "and", "publicity", "in", "connection", "with", "the", "commodity", "in", "question", "in", "area", "and", "shall", "submit", "to", "PartyA", "all", "audio", "and", "video", "materials", "intended", "for", "advertising", "for", "prior", "approval", "."],
+        "events":[
+            {
+                "index": [7,42]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,6]
+            }
+        ]
+    },
+    {
+        "tokens": ["Within", "the", "validity", "of", "this", "agreement", ",", "Party", "B", "may", "use", "the", "trade-marks", "owned", "by", "Party", "A", "for", "the", "sale", "of", "the", "Automobile", "paint", "covered", "herein", "and", "shall", "acknowledge", "that", "all", "patents", ",", "trademarks", ",", "copy", "rights", "or", "any", "other", "industrial", "property", "rights", "used", "or", "embodied", "in", "theAutomobile", "paint", "shall", "remain", "to", "be", "the", "sole", "properties", "of", "Party", "A", "."],
+        "events":[
+            {
+                "index": [7,59]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,6]
+            }
+        ]
+    },
+    {
+        "tokens": ["This", "agreement", ",", "when", "duly", "signed", "by", "the", "both", "parties", "concerned", ",", "shall", "remain", "effect", "for", "_____", "months", "from", "________", "(", "date", ")", "to", "________", "(", "date", ")", "."],
+        "events":[
+            {
+                "index": [0,18]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [19,23]
+            },
+            {
+                "index" : [24,28]
+            }
+        ]
+    },
+    {
+        "tokens": ["However", ",", "the", "party", "affected", "by", "the", "event", "of", "Force", "Majeure", "shall", "inform", "the", "other", "party", "of", "its", "occurrence", "in", "writing", "as", "soon", "as", "possible", "and", "thereafter", "send", "a", "certificate", "of", "the", "event", "issued", "by", "the", "relevant", "authorities", "to", "the", "other", "party", "within", "15", "days", "after", "its", "occurrence", "."],
+        "events":[
+            {
+                "index": [46,48]
+            },
+            {
+                "index": [0,42]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [43,45]
+            }
+        ]
+    },
+    {
+        "tokens": ["Within", "__________", "days", "of", "receipt", "of", "the", "shipment", ",", "Distributor", "shall", "notify", "Supplier", "in", "writing", "of", "any", "shortages", ",", "defects", "or", "damage", ",", "which", "Distributor", "claims", "existed", "at", "the", "time", "of", "delivery", "."],
+        "events":[
+            {
+                "index": [4,8]
+            },
+            {
+                "index": [9,32]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,3]
+            }
+        ]
+    },
+    {
+        "tokens": ["Within", "______", "days", "after", "the", "receipt", "of", "such", "notice", ",", "Supplier", "willinvestigate", "the", "claim", "of", "shortages", ",", "defects", "or", "damage", ",", "inform", "Distributor", "of", "its", "findings", ",", "anddeliver", "to", "Distributor", "Products", "to", "replace", "any", "which", "Supplier", "determines", ",", "were", "in", "short", "supply", ",", "defective", "or", "damaged", "at", "the", "time", "of", "delivery", "."],
+        "events":[
+            {
+                "index": [4,9]
+            },
+            {
+                "index": [10,51]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,3]
+            }
+        ]
+    }
+]

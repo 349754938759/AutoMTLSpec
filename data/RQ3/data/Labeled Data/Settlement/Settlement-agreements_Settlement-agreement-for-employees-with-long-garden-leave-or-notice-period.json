@@ -1,0 +1,34 @@
+[
+    {
+        "tokens": ["Except", "as", "set", "out", "in", "this", "Agreement", ",", "the", "employee", "will", "have", "no", "right", "to", "any", "benefits", "under", "the", "terms", "and", "conditions", "of", "employment", "after", "the", "Termination", "date", "."],
+        "events":[
+            {
+                "index": [8,24]
+            },
+            {
+                "index": [2,7]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [25,28]
+            }
+        ]
+    },
+    {
+        "tokens": ["The", "Settlement", "Payment", "will", "be", "paid", "within", "14", "days", "of", "receipt", "by", "the", "Employer", "of", "a", "signed", "copy", "of", "this", "Agreement", "and", "the", "signed", "certificate", "from", "the", "Employee", "'s", "adviser", "which", "is", "set", "out", "at", "Annex", "C", "."],
+        "events":[
+            {
+                "index": [10,37]
+            },
+            {
+                "index": [0,6]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [7,9]
+            }
+        ]
+    }
+]

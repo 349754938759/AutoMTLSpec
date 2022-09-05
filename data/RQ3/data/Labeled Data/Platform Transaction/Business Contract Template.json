@@ -1,0 +1,191 @@
+[
+    {
+        "tokens": ["The", "term", "of", "this", "Agreement", "is", "for", "[", "NUMBER", "]", "year", "from", "the", "date", "of", "its", "execution", "by", "Provider", "."],
+        "events":[
+            {
+                "index": [0,11]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [12,19]
+            }
+        ]
+    },
+    {
+        "tokens": ["Provider", "will", "invoice", "Client", "for", "Services", "performed", "within", "[", "NUMBER", "]", "days", "of", "performance", "."],
+        "events":[
+            {
+                "index": [0,7]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [8,14]
+            }
+        ]
+    },
+    {
+        "tokens": ["Client", "will", "pay", "Provider", "as", "set", "forth", "in", "each", "Statement", "of", "Work", "within", "[", "NUMBER", "]", "days", "of", "receipt", "and", "acceptance", "of", "such", "invoice", "."],
+        "events":[
+            {
+                "index": [18,24]
+            },
+            {
+                "index": [0,12]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [13,17]
+            }
+        ]
+    },
+    {
+        "tokens": ["Immediately", "upon", "receipt", "of", "said", "Deliverables", ",", "not", "more", "than", "10", "business", "days", "Client", "shall", "promptly", "perform", "testing", "of", "the", "Deliverables", "to", "confirm", "that", "the", "Deliverables", "perform", "in", "accordance", "with", "the", "documentation", "or", "other", "standards", "applicable", "thereto", "as", "set", "forth", "in", "the", "applicable", "Statement", "of", "Work", "."],
+        "events":[
+            {
+                "index": [2,6]
+            },
+            {
+                "index": [13,46]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [10,13]
+            }
+        ]
+    },
+    {
+        "tokens": ["Within", "2", "business", "days", "following", "the", "end", "of", "the", "Acceptance", "Period", ",", "Client", "shall", "either", "provide", "Provider", "with", "written", "acceptance", "of", "the", "Deliverables", ",", "or", "deliver", "to", "Provider", "a", "detailed", "written", "statement", "of", "nonconformities", "to", "be", "corrected", "prior", "to", "Client", "'s", "acceptance", "of", "the", "Deliverables", "."],
+        "events":[
+            {
+                "index": [5,11]
+            },
+            {
+                "index": [12,45]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,4]
+            }
+        ]
+    },
+    {
+        "tokens": ["Unless", "otherwise", "agreed", "to", "in", "writing", "by", "the", "parties", ",", "Provider", "will", "redeliver", "corrected", "Deliverables", "to", "Client", "within", "a", "reasonable", "amount", "of", "time", "after", "receipt", "of", "such", "statement", "of", "nonconformities", "."],
+        "events":[
+            {
+                "index": [24,30]
+            },
+            {
+                "index": [10,23]
+            },
+            {
+                "index": [1,9]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [18,23]
+            }
+        ]
+    },
+    {
+        "tokens": ["If", "Client", "fails", "to", "provide", "a", "written", "acceptance", "or", "a", "written", "statement", "of", "nonconformities", "within", "two", "(", "2", ")", "business", "days", "following", "the", "last", "Acceptance", "Period", ",", "the", "Deliverables", "shall", "be", "deemed", "immediately", "accepted", "by", "Client", "."],
+        "events":[
+            {
+                "index": [22,26]
+            },
+            {
+                "index": [1,14]
+            },
+            {
+                "index": [27,36]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [15,21]
+            }
+        ]
+    },
+    {
+        "tokens": ["if", "Provider", "does", "not", "receive", "it", "in", "written", "form", ",", "it", "is", "declared", "by", "Client", "in", "writing", "to", "be", "confidential", "within", "thirty", "(", "30", ")", "days", "after", "disclosure", "."],
+        "events":[
+            {
+                "index": [27,28]
+            },
+            {
+                "index": [1,9]
+            },
+            {
+                "index": [10,20]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [21,26]
+            }
+        ]
+    },
+    {
+        "tokens": ["All", "obligations", "of", "Provider", "under", "this", "Section", "shall", "survive", "the", "termination", "of", "this", "Agreement", "for", "a", "period", "of", "five", "(", "5", ")", "years", "."],
+        "events":[
+            {
+                "index": [0,14]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [15,23]
+            }
+        ]
+    },
+    {
+        "tokens": ["Upon", "termination", "or", "expiration", "of", "this", "Agreement", ",", "Provider", "will", "assemble", "and", "turn", "over", "in", "an", "orderly", "fashion", "to", "authorized", "representatives", "of", "Client", "all", "documents", ",", "write-ups", ",", "notes", ",", "computer", "programs", ",", "and", "other", "material", "related", "to", "the", "Services", "."],
+        "events":[
+            {
+                "index": [8,40]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,7]
+            }
+        ]
+    },
+    {
+        "tokens": ["The", "other", "may", "terminate", "this", "Agreement", "if", "the", "breaching", "party", "does", "not", "cure", "the", "breach", "within", "thirty", "(", "30", ")", "days", "of", "written", "notice", "of", "same", "."],
+        "events":[
+            {
+                "index": [22,26]
+            },
+            {
+                "index": [7,15]
+            },
+            {
+                "index": [0,6]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [16,21]
+            }
+        ]
+    },
+    {
+        "tokens": ["Termination", "shall", "be", "without", "prejudice", "to", "any", "rights", "which", "may", "have", "been", "accrued", "to", "either", "party", "before", "termination", "."],
+        "events":[
+            {
+                "index": [0,16]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [17,18]
+            }
+        ]
+    }
+]

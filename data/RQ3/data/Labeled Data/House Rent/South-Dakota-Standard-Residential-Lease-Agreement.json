@@ -1,0 +1,82 @@
+[
+  {
+    "tokens": ["Upon", "expiration", ",", "this", "Agreement", "shall", "become", "a", "month-to-month", "agreement", "AUTOMATICALLY", "."],
+    "events": [
+      {
+        "index": [3,11]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [1,2]
+      }
+    ]
+  },
+  {
+    "tokens": ["This", "deposit", "money", "minus", "any", "necessary", "charges", "for", "missing/dead", "light", "bulbs", ",", "repairs", ",", "cleaning", ",", "etc.", ",", "will", "then", "be", "returned", "to", "Tenant", "with", "a", "written", "explanation", "of", "deductions", ",", "within", "60", "days", "after", "they", "have", "vacated", "the", "property", "."],
+    "events": [
+      {
+        "index": [35,40]
+      },
+      {
+        "index": [0,30]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [32,34]
+      }
+    ]
+  },
+  {
+    "tokens": ["Owners", "charge", "a", "fee", "of", "$", "for", "providing", "this", "service", "between", "the", "hours", "of", "8", "am", "and", "6", "pm", "."],
+    "events": [
+      {
+        "index": [0,10]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [11,16]
+      },
+      {
+        "index": [17,19]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "there", "is", "anything", "about", "the", "condition", "of", "the", "property", "that", "is", "not", "good", ",", "they", "agree", "to", "report", "it", "to", "the", "Landlord", "within", "3", "days", "of", "taking", "possession", "of", "the", "property", "."],
+    "events": [
+      {
+        "index": [27,32]
+      },
+      {
+        "index": [1,14]
+      },
+      {
+        "index": [15,23]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [24,26]
+      }
+    ]
+  },
+  {
+    "tokens": ["They", "specifically", "authorize", "Landlord", "to", "deduct", "amounts", "of", "unpaid", "bills", "from", "their", "Security", "Deposits", "in", "the", "event", "they", "remain", "unpaid", "after", "termination", "of", "this", "agreement", "."],
+    "events": [
+      {
+        "index": [17,20]
+      },
+      {
+        "index": [0,14]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [21,25]
+      }
+    ]
+  }
+]

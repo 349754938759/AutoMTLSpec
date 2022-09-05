@@ -1,0 +1,98 @@
+[
+    {
+        "tokens": ["Accordingly", ",", "prior", "to", "receipt", "of", "the", "payment", "set", "out", "in", "at", "clause", "7", "below", "or", "any", "part", "thereof", "you", "agree", "to", "enter", "into", "a", "further", "settlement", "agreement", "with", "the", "Company", "on", "or", "after", "the", "Termination", "Date", "but", "in", "any", "event", "by", "no", "later", "than", "17", "October", "2018", "."],
+        "events":[
+            {
+                "index": [19,31]
+            },
+            {
+                "index": [4,19]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [34,37]
+            },
+            {
+                "index" : [45,48]
+            }
+        ]
+    },
+    {
+        "tokens": ["You", "further", "agree", "that", ",", "between", "the", "date", "of", "this", "Agreement", "and", "the", "Termination", "Date", "."],
+        "events":[
+            {
+                "index": [0,4]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [6,11]
+            },
+            {
+                "index" : [12,15]
+            }
+        ]
+    },
+    {
+        "tokens": ["you", "will", "continue", "to", "be", "paid", "your", "salary", "and", "provided", "with", "all", "contractual", "allowances", "and", "benefits", "in", "the", "usual", "way", ",", "less", "income", "tax", "and", "employee", "'s", "National", "Insurance", "contributions", "as", "appropriate", "up", "to", "the", "Termination", "Date", "."],
+        "events":[
+            {
+                "index": [0,32]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [34,37]
+            }
+        ]
+    },
+    {
+        "tokens": ["you", "will", "not", "__", "at", "any", "time", "after", "the", "Termination", "Date", "."],
+        "events":[
+            {
+                "index": [0,7]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [8,11]
+            }
+        ]
+    },
+    {
+        "tokens": ["The", "Company", "agrees", "to", "provide", "a", "statement", "of", "employment", "in", "respect", "of", "you", "in", "the", "form", "attached", "at", "Schedule", "2", "within", "21", "days", "of", "a", "request", "being", "received", "by", "the", "Company", "from", "a", "prospective", "employer", "."],
+        "events":[
+            {
+                "index": [24,35]
+            },
+            {
+                "index": [0,20]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [21,23]
+            }
+        ]
+    },
+    {
+        "tokens": ["In", "the", "event", "that", "you", "are", "re-employed", "by", "or", "are", "engaged", "to", "provide", "services", "to", "the", "Company", "or", "any", "Group", "Company", "at", "any", "time", "within", "four", "months", "after", "the", "Termination", "Date", ",", "the", "Company", "may", "to", "require", "you", "to", "repay", "to", "the", "Company", "the", "Compensation", "Payment", "."],
+        "events":[
+            {
+                "index": [28,31]
+            },
+            {
+                "index": [4,24]
+            },
+            {
+                "index": [32,46]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [25,27]
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "tokens": ["Within", "ten", "(", "10", ")", "days", "of", "the", "occurrence", "of", "the", "last", "of", "(", "a", ")", "execution", "and", "delivery", "of", "this", "Settlement", "Agreement", "by", "both", "parties", "and", "(", "b", ")", "Court", "approval", "of", "this", "Settlement", "Agreement", ",", "BBB", "shall", "issue", "to", "AAA", "that", "number", "of", "shares", "of", "BBB", "common", "stock", ",", "par", "value", "$", ",", "_________", "per", "share", "(", "the", "``", "Shares", "''", ")", ",", "having", "the", "aggregate", "value", "of", "$", ",", "_________", "based", "upon", "a", "price", "per", "share", "which", "shall", "be", "the", "average", "of", "the", "closing", "prices", "of", "the", "shares", "."],
+        "events":[
+            {
+                "index": [7,36]
+            },
+            {
+                "index": [37,91]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,6]
+            }
+        ]
+    }
+]

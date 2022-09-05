@@ -1,0 +1,15 @@
+[
+    {
+		"tokens": ["Items", "removed", "by", "Seller", "will", "result", "in", "a", "33", "%", "charge", "of", "the", "valued", "price", "of", "the", "item", "or", "items", "removed", "after", "the", "execution", "of", "the", "agreement", "."],
+		"events":[
+			{
+				"index": [0,21]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [22,27]
+			}
+    	]
+	}
+]

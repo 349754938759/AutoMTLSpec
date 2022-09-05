@@ -1,0 +1,150 @@
+[
+  {
+    "tokens": ["if", "possession", "is", "tendered", "within", "such", "time", ",", "Tenant", "agrees", "to", "accept", "the", "demised", "Premises", "and", "pay", "the", "rental", "herein", "provided", "from", "that", "date", "."],
+    "events": [
+      {
+        "index": [1,7]
+      },
+      {
+        "index": [8,21]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [22,24]
+      }
+    ]
+  },
+  {
+    "tokens": ["In", "the", "event", "possession", "can", "not", "be", "delivered", "within", "such", "time", ",", "then", "this", "Agreement", "and", "all", "rights", "hereunder", "shall", "terminate", "."],
+    "events": [
+      {
+        "index": [3,8]
+      },
+      {
+        "index": [12,21]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [9,11]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "rent", "is", "not", "paid", "within", "____", "days", ",", "landlord", "may", "terminate", "this", "rental", "agreement", "."],
+    "events": [
+      {
+        "index": [1,5]
+      },
+      {
+        "index": [9,15]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [6,8]
+      }
+    ]
+  },
+  {
+    "tokens": ["After", "the", "____", "day", "of", "the", "month", ",", "rent", "paid", "will", "be", "subject", "to", "a", "late", "charge", "of", "$", "____", "."],
+    "events": [
+      {
+        "index": [8,20]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [1,7]
+      }
+    ]
+  },
+  {
+    "tokens": ["Landlord", "and", "Landlord", "'s", "agents", "shall", "have", "the", "right", "at", "all", "reasonable", "times", "during", "the", "term", "of", "this", "Agreement", "."],
+    "events": [
+      {
+        "index": [0,13]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [14,19]
+      }
+    ]
+  },
+  {
+    "tokens": ["Tenant", "shall", "deposit", "with", "Landlord", "the", "sum", "of", "$", "_____", "receipt", "of", "which", "is", "hereby", "acknowledged", "by", "Landlord", ",", "as", "security", "for", "any", "damage", "caused", "to", "the", "Premises", "during", "the", "term", "hereof", "."],
+    "events": [
+      {
+        "index": [0,28]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [29,32]
+      }
+    ]
+  },
+  {
+    "tokens": ["Such", "deposit", "shall", "be", "returned", "to", "Tenant", ",", "without", "interest", ",", "and", "less", "any", "set", "off", "for", "damages", "to", "the", "Premises", "upon", "the", "termination", "of", "this", "Agreement", "."],
+    "events": [
+      {
+        "index": [0,21]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [22,27]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "Tenant", "fails", "to", "comply", "with", "any", "of", "the", "material", "provisions", "of", "this", "Agreement", ",", "other", "than", "the", "covenant", "to", "pay", "rent", ",", "or", "of", "any", "present", "rules", "and", "regulations", "or", "any", "that", "may", "be", "hereafter", "prescribed", "by", "Landlord", ",", "or", "materially", "fails", "to", "comply", "with", "any", "duties", "imposed", "on", "Tenant", "by", "statute", ",", "within", "_____", "days", "after", "delivery", "of", "written", "notice", "by", "Landlord", "specifying", "the", "non-compliance", "and", "indicating", "the", "intention", "of", "Landlord", "to", "terminate", "the", "Arkansas", "Lease", "by", "reason", "thereof", ",", "Landlord", "may", "terminate", "this", "Agreement", "."],
+    "events": [
+      {
+        "index": [58,81]
+      },
+      {
+        "index": [1,53]
+      },
+      {
+        "index": [82,87]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [55,57]
+      }
+    ]
+  },
+  {
+    "tokens": ["Tenant", "shall", "inspect", "and", "certify", "that", "the", "Premises", "has", "a", "working", "smoke", "detector", "or", "detectors", "within", "_____", "days", "after", "taking", "possession", "thereof", "."],
+    "events": [
+      {
+        "index": [19,22]
+      },
+      {
+        "index": [0,15]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [16,18]
+      }
+    ]
+  },
+  {
+    "tokens": ["The", "Landlord", "and", "Tenant", "(", "s", ")", "agree", "to", "the", "terms", "and", "conditions", "and", "shall", "be", "bound", "until", "the", "end", "of", "the", "Lease", "Term", "."],
+    "events": [
+      {
+        "index": [0,17]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [18,24]
+      }
+    ]
+  }
+]

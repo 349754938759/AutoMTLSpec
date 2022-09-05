@@ -1,0 +1,101 @@
+[
+  {
+    "tokens": ["If", "all", "or", "any", "portion", "of", "the", "security", "deposit", "is", "used", ",", "Tenant", "agrees", "to", "reinstate", "the", "total", "security", "deposit", "within", "five", "days", "after", "written", "notice", "is", "delivered", "to", "Tenant", "."],
+    "events": [
+      {
+        "index": [24,30]
+      },
+      {
+        "index": [1,11]
+      },
+      {
+        "index": [12,20]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [21,23]
+      }
+    ]
+  },
+  {
+    "tokens": ["Within", "30", "days", "after", "Tenant", "vacates", "the", "Premises", ",", "returns", "keys", "and", "leaves", "forwarding", "address", ",", "Landlord", "shall", "(", "1", ")", "furnish", "Tenant", "an", "itemized", "statement", "indicating", "the", "amount", "of", "any", "security", "deposit", "received", "and", "the", "basis", "for", "its", "disposition", ",", "and", "(", "2", ")", "return", "any", "remaining", "portion", "of", "security", "deposit", "to", "Tenant", "."],
+    "events": [
+      {
+        "index": [4,15]
+      },
+      {
+        "index": [16,54]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [1,3]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "Broker", "'s", "authority", "is", "terminated", "before", "expiration", "of", "this", "Agreement", ",", "Broker", "shall", "notify", "Tenant", ",", "in", "writing", ",", "where", "and", "to", "whom", "security", "deposit", "has", "been", "released", "."],
+    "events": [
+      {
+        "index": [1,6]
+      },
+      {
+        "index": [12,29]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [7,11]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "any", "installment", "of", "rent", "due", "from", "Tenant", "is", "not", "received", "by", "Landlord", "within", "5", "calendar", "days", "after", "the", "due", "date", ",", "an", "additional", "sum", "of", "$", "as", "Late", "Charge", "and", "$", "25.00", "as", "a", "NSF", "fee", ",", "either", "or", "both", "of", "which", "shall", "be", "deemed", "additional", "rent", "."],
+    "events": [
+      {
+        "index": [18,21]
+      },
+      {
+        "index": [1,17]
+      },
+      {
+        "index": [22,48]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [14,17]
+      }
+    ]
+  },
+  {
+    "tokens": ["Tenant", "will", "provide", "Landlord", "a", "list", "of", "items", "which", "are", "damaged", "or", "not", "in", "operable", "condition", "within", "3", "days", "after", "Commencement", "Date", "."],
+    "events": [
+      {
+        "index": [20,22]
+      },
+      {
+        "index": [0,16]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [17,19]
+      }
+    ]
+  },
+  {
+    "tokens": ["Upon", "termination", "of", "Agreement", ",", "Tenant", "shall", ":", "(", "a", ")", "give", "Landlord", "all", "copies", "of", "all", "keys", "or", "opening", "devices", "to", "Premises", ",", "including", "any", "common", "areas", ";", "(", "b", ")", "vacate", "Premises", "and", "surrender", "it", "to", "Landlord", "empty", "of", "all", "persons", ";", "(", "c", ")", "vacate", "any/all", "parking", "and/or", "storage", "space", ";", "(", "d", ")", "deliver", "Premises", "to", "Landlord", "in", "the", "same", "condition", "as", "referenced", "in", "paragraph", "9", ";", "(", "e", ")", "clean", "Premises", ",", "including", "professional", "cleaning", "of", "carpet", "and", "drapes", ";", "(", "f", ")", "give", "written", "notice", "to", "Landlord", "or", "Tenant", "'s", "forwarding", "address", "."],
+    "events": [
+      {
+        "index": [5,98]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [1,4]
+      }
+    ]
+  }
+]

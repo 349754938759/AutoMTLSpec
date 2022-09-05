@@ -1,0 +1,153 @@
+[
+  {
+    "tokens": ["If", "the", "Tenant", "plans", "to", "leave", "on", "or", "after", "the", "first", "of", "any", "month", ",", "they", "are", "responsible", "for", "that", "month", "'s", "full", "rent", "."],
+    "events": [
+      {
+        "index": [1,6]
+      },
+      {
+        "index": [15,24]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [9,14]
+      }
+    ]
+  },
+  {
+    "tokens": ["At", "the", "signing", "of", "this", "Lease", ",", "Tenant", "shall", "deposit", "with", "Landlord", ",", "in", "trust", ",", "a", "security", "deposit", "of", "$", "_________", "as", "security", "for", "the", "performance", "by", "Tenant", "of", "the", "terms", "under", "this", "Lease", "and", "for", "any", "damages", "caused", "by", "Tenant", ",", "Tenant", "'s", "family", ",", "agents", "and", "visitors", "to", "the", "Premises", "during", "the", "term", "of", "this", "Lease", "."],
+    "events": [
+      {
+        "index": [0,53]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [54,59]
+      }
+    ]
+  },
+  {
+    "tokens": ["Landlord", "may", ",", "at", "its", "option", ",", "hold", "Tenant", "liable", "for", "any", "difference", "between", "the", "rent", "that", "would", "have", "been", "payable", "under", "this", "Lease", "during", "the", "balance", "of", "the", "unexpired", "term", "."],
+    "events": [
+      {
+        "index": [0,24]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [25,31]
+      }
+    ]
+  },
+  {
+    "tokens": ["In", "the", "event", "Landlord", "is", "unable", "to", "re-let", "the", "Premises", "during", "any", "remaining", "term", "of", "this", "Lease", ",", "after", "default", "by", "Tenant", ",", "Landlord", "may", "at", "its", "option", "hold", "Tenant", "liable", "for", "the", "balance", "of", "the", "unpaid", "rent", "under", "this", "Lease", "."],
+    "events": [
+      {
+        "index": [19,22]
+      },
+      {
+        "index": [3,10]
+      },
+      {
+        "index": [23,41]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [11,17]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "during", "the", "term", "of", "this", "Lease", ",", "in", "Tenant", "'s", "opinion", ",", "the", "conditions", "change", ",", "Tenant", "shall", "promptly", "provided", "reasonable", "notice", "to", "Landlord", "."],
+    "events": [
+      {
+        "index": [8,16]
+      },
+      {
+        "index": [17,25]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [2,7]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "the", "Premises", "or", "part", "of", "the", "Premises", "are", "damaged", "or", "destroyed", "by", "fire", "or", "other", "casualty", "not", "due", "to", "Tenant", "'s", "negligence", ",", "the", "rent", "will", "be", "abated", "during", "the", "time", "that", "the", "Premises", "are", "uninhabitable", "."],
+    "events": [
+      {
+        "index": [1,23]
+      },
+      {
+        "index": [24,29]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [30,37]
+      }
+    ]
+  },
+  {
+    "tokens": ["Tenant", "will", ",", "at", "Tenant", "'s", "sole", "expense", ",", "keep", "and", "maintain", "the", "Premises", "in", "good", ",", "clean", "and", "sanitary", "condition", "and", "repair", "during", "the", "term", "of", "this", "Lease", "and", "any", "renewal", "thereof", "."],
+    "events": [
+      {
+        "index": [0,23]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [24,33]
+      }
+    ]
+  },
+  {
+    "tokens": ["In", "the", "event", "Tenant", "remains", "in", "possession", "the", "Premises", "for", "any", "period", "after", "the", "expiration", "of", "the", "Lease", "Term", ",", "a", "new", "month-to-month", "tenancy", "shall", "be", "created", "subject", "to", "the", "same", "terms", "and", "conditions", "of", "this", "Lease", "at", "a", "monthly", "rental", "rate", "of", "the", "same", "in", "this", "agreement", "."],
+    "events": [
+      {
+        "index": [3,12]
+      },
+      {
+        "index": [20,48]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [13,19]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "Tenant", "abandons", "the", "Premises", "of", "any", "personal", "property", "during", "the", "term", "of", "this", "Lease", ",", "Landlord", "may", "at", "is", "option", "enter", "the", "Premises", "by", "any", "legal", "means", "without", "liability", "to", "Tenant", "and", "may", "at", "Landlord", "'s", "option", "terminate", "the", "Lease", "."],
+    "events": [
+      {
+        "index": [1,9]
+      },
+      {
+        "index": [16,41]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [10,15]
+      }
+    ]
+  },
+  {
+    "tokens": ["Landlord", "or", "Landlord", "'s", "agent", "may", "display", "``", "For", "Sale", "''", "or", "``", "For", "Rent", "''", "or", "``", "Vacancy", "''", "or", "similar", "signs", "on", "or", "about", "the", "Premises", "and", "enter", "to", "show", "the", "Premises", "to", "prospective", "tenants", "during", "the", "last", "____", "days", "of", "this", "Lease", "."],
+    "events": [
+      {
+        "index": [0,37]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [38,45]
+      }
+    ]
+  }
+]

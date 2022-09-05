@@ -1,0 +1,95 @@
+[
+  {
+    "tokens": ["Either", "party", "may", "terminate", "this", "lease", "upon", "thirty", "(", "30", ")", "days", "prior", "written", "notice", "to", "the", "other", "party", "."],
+    "events": [
+      {
+        "index": [13,19]
+      },
+      {
+        "index": [0,6]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [7,12]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "Tenant", "fully", "performs", "its", "obligations", "hereunder", ",", "the", "security", "deposit", ",", "or", "balance", ",", "shall", "promptly", "be", "returned", "to", "Tenant", "after", "the", "termination", "of", "this", "Lease", "."],
+    "events": [
+      {
+        "index": [1,7]
+      },
+      {
+        "index": [8,21]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [22,27]
+      }
+    ]
+  },
+  {
+    "tokens": ["Tenant", "agree", "to", "pay", "Landlord", "rental", "payments", "on", "the", "first", "day", "of", "each", "month", "during", "the", "Term", "of", "this", "Lease", "."],
+    "events": [
+      {
+        "index": [0,14]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [15,20]
+      }
+    ]
+  },
+  {
+    "tokens": ["Landlord", "shall", "consider", "rent", "received", "by", "mail", "as", "timely", "paid", "after", "the", "due", "date", ",", "as", "long", "as", "it", "is", "post-marked", "by", "the", "due", "date", "."],
+    "events": [
+      {
+        "index": [18,25]
+      },
+      {
+        "index": [0,10]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [11,14]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "Tenant", "fails", "to", "pay", "any", "installment", "of", "rent", "or", "any", "other", "amount", "within", "five", "(", "5", ")", "days", "of", "the", "due", "date", ",", "the", "Tenant", "shall", "pay", "Landlord", "a", "late", "payment", "charge", "in", "the", "amount", "of", "$", "."],
+    "events": [
+      {
+        "index": [20,23]
+      },
+      {
+        "index": [1,13]
+      },
+      {
+        "index": [24,38]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [14,19]
+      }
+    ]
+  },
+  {
+    "tokens": ["Before", "1978", ",", "you", "are", "required", "by", "law", "to", "provide", "a", "Lead-Based", "Paint", "Disclosure", "to", "the", "Tenant", "."],
+    "events": [
+      {
+        "index": [3,17]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [1,2]
+      }
+    ]
+  }
+]

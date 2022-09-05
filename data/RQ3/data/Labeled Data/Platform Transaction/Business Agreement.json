@@ -1,0 +1,28 @@
+[
+    {
+        "tokens": ["The", "Buyer", "shall", "accept", "or", "reject", "the", "said", "object", "of", "sale", "and", "notify", "the", "Seller", "as", "to", "the", "rejection", "of", "in", "non-conformance", "to", "the", "standards", "required", "by", "the", "Buyer", "within", "{", "periodOf18", "}", "."],
+        "events":[
+            {
+                "index": [0,29]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [30,33]
+            }
+        ]
+    },
+    {
+        "tokens": ["The", "Parties", ",", "its", "agents", "and", "employees", ",", "shall", "keep", "confidential", "the", "confidential", "information", "received", "within", "the", "course", "of", "this", "agreement", "."],
+        "events":[
+            {
+                "index": [0,15]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [16,21]
+            }
+        ]
+    }
+]

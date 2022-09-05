@@ -1,0 +1,143 @@
+[
+  {
+		"tokens": ["Buyer", "agrees", "to", "be", "responsible", "for", "homeowners", "'", "association", "and", "private", "and", "public", "utility", "service", "transfer", "fees", ",", "if", "any", ",", "and", "all", "utilities", "and", "other", "services", "provided", "to", "the", "Property", "after", "the", "Settlement", "Deadline", "."],
+		"events":[
+			{
+				"index": [0,31]
+			}
+		],
+		"timeunits":[
+      {
+        "index" : [32,35]
+      }
+    ]
+	},
+  {
+		"tokens": ["The", "actions", "described", "in", "3.5", "(", "b", ")", "and", "(", "c", ")", "shall", "be", "completed", "within", "four", "calendar", "days", "after", "Settlement", "."],
+		"events":[
+			{
+				"index": [20,21]
+			},
+      {
+				"index": [0,15]
+			}
+		],
+		"timeunits":[
+      {
+        "index" : [16,19]
+      }
+    ]
+	},
+  {
+		"tokens": ["Seller", "shall", "deliver", "physical", "possession", "of", "the", "Property", "to", "Buyer", "within", "__", "Calendar", "Days", "after", "Closing", "."],
+		"events":[
+			{
+				"index": [15,16]
+			},
+      		{
+				"index": [0,10]
+			}
+		],
+		"timeunits":[
+      {
+        "index" : [11,14]
+      }
+    ]
+	},
+  {
+		"tokens": ["No", "later", "than", "the", "Seller", "Disclosure", "Deadline", "referenced", "in", "Section", "24", "(", "a", ")", ",", "Seller", "shall", "provide", "to", "Buyer", "the", "following", "documents", "in", "hard", "copy", "or", "electronic", "format", "which", "are", "collectively", "referred", "to", "as", "the", "Seller", "Disclosures", "."],
+		"events":[
+			{
+				"index": [15,38]
+			}
+		],
+		"timeunits":[
+      {
+        "index" : [3,14]
+      }
+    ]
+	},
+  {
+		"tokens": ["If", "Buyer", ",", "in", "Buyer", "'", "s", "sole", "discretion", ",", "is", "not", "satisfied", "with", "the", "terms", "and", "conditions", "of", "the", "Loan", ",", "Buyer", "may", "cancel", "the", "REPC", "by", "providing", "written", "notice", "to", "Seller", "no", "later", "than", "the", "Financing", "&", "Appraisal", "Deadline", "."],
+		"events":[
+			{
+				"index": [1,21]
+			},
+      {
+				"index": [22,33]
+			}
+		],
+		"timeunits":[
+      {
+        "index" : [36,41]
+      }
+    ]
+	},
+  {
+		"tokens": ["No", "earlier", "than", "seven", "calendar", "days", "prior", "to", "Settlement", ",", "Buyer", "may", "conduct", "a", "final", "pre-Settlement", "walk-through", "inspection", "of", "the", "Property", "to", "determine", "."],
+		"events":[
+			{
+				"index": [10,23]
+			},
+      {
+				"index": [8,9]
+			}
+		],
+		"timeunits":[
+      {
+        "index" : [3,6]
+      }
+    ]
+	},
+  {
+		"tokens": ["If", "the", "items", "are", "not", "as", "represented", ",", "Seller", "agrees", "to", "cause", "all", "applicable", "items", "to", "be", "corrected", ",", "repaired", "or", "replaced", "prior", "to", "the", "Settlement", "Deadline", "."],
+		"events":[
+			{
+				"index": [1,7]
+			},
+      {
+				"index": [8,22]
+			}
+		],
+		"timeunits":[
+      {
+        "index" : [24,27]
+      }
+    ]
+	},
+  {
+		"tokens": ["If", "the", "Work", "is", "not", "completed", "within", "thirty", "(", "30", ")", "calendar", "days", "after", "the", "Settlement", "Deadline", ",", "the", "amount", "so", "escrowed", "may", ",", "subject", "to", "Lender", "'", "s", "approval", ",", "be", "released", "to", "Buyer", "as", "liquidated", "damages", "for", "failure", "to", "complete", "the", "Work", "."],
+		"events":[
+			{
+				"index": [14,17]
+			},
+      {
+				"index": [1,6]
+			},
+      {
+				"index": [18,44]
+			}
+		],
+		"timeunits":[
+      {
+        "index" : [7,13]
+      }
+    ]
+	},
+  {
+		"tokens": ["Seller", "agrees", "that", "none", "of", "the", "following", "shall", "occur", "without", "the", "prior", "written", "consent", "of", "Buyer", "from", "the", "date", "of", "Acceptance", "until", "the", "date", "of", "Closing", "."],
+		"events":[
+			{
+				"index": [0,16]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [17,21]
+			},
+			{
+				"index" : [22,26]
+			}
+		]
+	}
+]

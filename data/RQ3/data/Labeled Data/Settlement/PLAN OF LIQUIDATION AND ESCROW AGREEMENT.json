@@ -1,0 +1,28 @@
+[
+    {
+        "tokens": ["The", "Escrow", "Agent", "shall", "make", "pro", "rata", "liquidating", "distributions", "to", "the", "Stockholders", "in", "cash", "from", "time", "to", "time", "after", "the", "Record", "Date", "as", "determined", "by", "the", "Escrow", "Agent", "in", "his", "absolute", "discretion", "."],
+        "events":[
+            {
+                "index": [0,18]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [19,32]
+            }
+        ]
+    },
+    {
+        "tokens": ["Until", "December", "31", ",", "2008", ",", "the", "Escrow", "Agent", "shall", "not", "receive", "any", "compensation", "in", "connection", "with", "the", "Plan", "."],
+        "events":[
+            {
+                "index": [6,19]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,5]
+            }
+        ]
+    }
+]

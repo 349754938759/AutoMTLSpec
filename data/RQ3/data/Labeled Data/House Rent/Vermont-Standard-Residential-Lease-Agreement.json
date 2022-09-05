@@ -1,0 +1,101 @@
+[
+  {
+    "tokens": ["The", "Tenant", "is", "responsible", "to", "reimburse", "Owner", "for", "these", "costs", "within", "thirty", "(", "30", ")", "days", "of", "demand", "for", "payment", "."],
+    "events": [
+      {
+        "index": [17,20]
+      },
+      {
+        "index": [0,10]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [11,16]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "the", "Tenant", "renders", "that", "unit", "uninhabitable", ",", "Tenant", "shall", "still", "be", "responsible", "to", "pay", "for", "the", "rent", "during", "the", "time", "."],
+    "events": [
+      {
+        "index": [1,7]
+      },
+      {
+        "index": [8,18]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [19,21]
+      }
+    ]
+  },
+  {
+    "tokens": ["Within", "thirty", "(", "30", ")", "days", "of", "demand", "for", "payment", ",", "failure", "to", "reimburse", "Owner", "from", "Owner", "shall", "constitute", "a", "lease", "violation", "and", "Tenant", "shall", "be", "subject", "to", "eviction", "."],
+    "events": [
+      {
+        "index": [7,10]
+      },
+      {
+        "index": [11,29]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [1,6]
+      }
+    ]
+  },
+  {
+    "tokens": ["The", "lease", "terminates", "if", "the", "Tenant", "terminates", "the", "lease", "with", "a", "minimum", "of", "thirty", "(", "30", ")", "calendar", "days", "written", "notice", "no", "more", "than", "sixty", "(", "60", ")", "days", ",", "after", "the", "initial", "term", "."],
+    "events": [
+      {
+        "index": [31,34]
+      },
+      {
+        "index": [4,21]
+      },
+      {
+        "index": [0,3]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [24,29]
+      }
+    ]
+  },
+  {
+    "tokens": ["After", "deducting", "the", "amount", ",", "if", "any", ",", "used", "to", "reimburse", "the", "Owner", ",", "the", "Owner", "must", "promptly", "refund", "the", "full", "amount", "of", "the", "unused", "balance", "to", "the", "Tenant", "within", "fourteen", "(", "14", ")", "days", "."],
+    "events": [
+      {
+        "index": [1,4]
+      },
+      {
+        "index": [5,29]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [30,35]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "the", "Tenant", "vacates", "the", "unit", "prior", "to", "the", "expiration", "of", "the", "initial", "term", ",", "Tenant", "shall", "be", "liable", "to", "pay", "Owner", "for", "all", "reasonable", "costs", "incurred", "by", "Owner", "in", "turning", "over", "the", "unit", "."],
+    "events": [
+      {
+        "index": [1,6]
+      },
+      {
+        "index": [15,34]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [8,14]
+      }
+    ]
+  }
+]

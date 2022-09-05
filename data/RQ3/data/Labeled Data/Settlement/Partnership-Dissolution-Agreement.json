@@ -1,0 +1,34 @@
+[
+    {
+        "tokens": ["Except", "for", "the", "purpose", "of", "carrying", "out", "the", "winding-up", "and", "liquidation", "of", "the", "business", "of", "the", "Partnership", ",", "no", "Partner", "shall", "transact", "any", "further", "business", "nor", "incur", "any", "further", "obligations", "on", "behalf", "of", "the", "Partnership", "after", "the", "date", "of", "this", "Agreement", "."],
+        "events":[
+            {
+                "index": [18,35]
+            },
+            {
+                "index": [2,17]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [36,41]
+            }
+        ]
+    },
+    {
+        "tokens": ["Immediately", "following", "the", "dissolution", "of", "the", "Partnership", ",", "the", "Partners", "shall", "cause", "an", "accounting", "to", "be", "made", "by", "[", "Insert", "Accountant", "Name", "]", "of", "all", "of", "the", "assets", ",", "liabilities", ",", "and", "net", "worth", "of", "the", "Partnership", "as", "of", "the", "effective", "date", "of", "the", "dissolution", "."],
+        "events":[
+            {
+                "index": [1,7]
+            },
+            {
+                "index": [8,37]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [39,45]
+            }
+        ]
+    }
+]

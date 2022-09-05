@@ -1,0 +1,165 @@
+[
+	{
+		"tokens": ["On", "or", "before", "the", "date", "the", "Feasibility", "Period", ",", "an", "additional", "___", "Dollars", "(", "the", "Additional", "Earnest", "Money", ")", "shall", "be", "deposited", "into", "escrow", "."],
+		"events":[
+			{
+				"index": [3,8]
+			}
+		],
+		"timeunits":[
+            {
+                "index" : [9,24]
+            }
+        ]
+	},
+	{
+		"tokens": ["If", "Buyer", "is", "not", "satisfied", "with", "the", "results", "of", "its", "inspection", "in", "its", "sole", "discretion", ",", "Buyer", "may", "terminate", "this", "Agreement", "by", "delivering", "written", "notice", "of", "its", "intention", "to", "so", "terminate", "to", "Seller", "at", "any", "time", "within", "the", "Feasibility", "Period", "."],
+		"events":[
+			{
+				"index": [1,15]
+			},
+			{
+				"index": [16,36]
+			}
+		],
+		"timeunits":[
+            {
+                "index" : [37,40]
+            }
+        ]
+	},
+	{
+		"tokens": ["Buyer", "shall", "have", "the", "right", "to", "enter", "upon", "the", "Property", "between", "the", "date", "of", "this", "Agreement", "and", "the", "Closing", "Date", "."],
+		"events":[
+			{
+				"index": [0,10]
+			}
+		],
+		"timeunits":[
+            {
+                "index" : [11,16]
+            },
+			{
+                "index" : [17,20]
+            }
+        ]
+	},
+	{
+		"tokens": ["Buyer", "shall", "give", "written", "notice", "to", "Seller", "within", "ten", "(", "10", ")", "days", "after", "Buyer", "has", "received", "the", "Preliminary", "Report", "of", "any", "defects", "or", "encumbrances", "in", "Seller", "'s", "title", "to", "which", "Buyer", "objects", "."],
+		"events":[
+			{
+				"index": [14,33]
+			},
+			{
+				"index": [0,7]
+			}
+		],
+		"timeunits":[
+            {
+                "index" : [8,13]
+            }
+        ]
+	},
+	{
+		"tokens": ["Any", "defects", "or", "encumbrances", "in", "title", "shall", "be", "deemed", "approved", "by", "Buyer", "unless", "Seller", "receives", "written", "notice", "of", "Buyer", "'s", "objections", "on", "or", "before", "such", "date", "."],
+		"events":[
+			{
+				"index": [0,12]
+			},
+			{
+				"index": [13,21]
+			}
+		],
+		"timeunits":[
+            {
+                "index" : [24,26]
+            }
+        ]
+	},
+	{
+		"tokens": ["Seller", "shall", "notify", "Buyer", "within", "ten", "(", "10", ")", "days", "of", "receipt", "of", "Buyer", "'s", "notice", "of", "objections", "."],
+		"events":[
+			{
+				"index": [11,18]
+			},
+			{
+				"index": [0,4]
+			}
+		],
+		"timeunits":[
+            {
+                "index" : [5,10]
+            }
+        ]
+	},
+	{
+		"tokens": ["In", "the", "event", "Seller", "elects", "not", "to", "cure", "such", "defects", "or", "encumbrances", ",", "Buyer", "must", "elect", "to", "accept", "such", "defects", "or", "terminate", "this", "Agreement", ",", "within", "three", "(", "3", ")", "days", "of", "being", "notified", "of", "Seller", "'s", "election", "not", "to", "cure", "."],
+		"events":[
+			{
+				"index": [32,41]
+			},
+			{
+				"index": [3,12]
+			},
+			{
+				"index": [13,24]
+			}
+		],
+		"timeunits":[
+            {
+                "index" : [26,31]
+            }
+        ]
+	},
+	{
+		"tokens": ["If", "Seller", "agrees", "in", "writing", "to", "repair", "or", "restore", "the", "Property", "to", "its", "condition", "on", "the", "date", "of", "execution", "of", "this", "Agreement", "prior", "to", "Closing", ",", "then", "Buyer", "shall", "be", "obligated", "to", "close", "this", "transaction", "in", "accordance", "with", "the", "terms", "hereof", "."],
+		"events":[
+			{
+				"index": [1,22]
+			},
+			{
+				"index": [27,41]
+			}
+		],
+		"timeunits":[
+            {
+                "index" : [24,25]
+            }
+        ]
+	},
+	{
+		"tokens": ["If", "Seller", "fails", "to", "perform", "any", "covenant", "or", "agreement", "of", "Seller", "contained", "herein", ",", "Buyer", "may", "terminate", "this", "Agreement", "and", "receive", "a", "refund", "of", "the", "Earnest", "Money", "within", "30", "calendar", "days", "of", "the", "first", "occurrence", "of", "such", "failure", "to", "perform", "."],
+		"events":[
+			{
+				"index": [32,40]
+			},
+			{
+				"index": [1,13]
+			},
+			{
+				"index": [14,27]
+			}
+		],
+		"timeunits":[
+            {
+                "index" : [28,31]
+            }
+        ]
+	},
+	{
+		"tokens": ["Buyer", "shall", "have", "to", "engage", "a", "suitable", "tax-free", "exchange", "accommodator", "or", "facilitator", "within", "the", "date", "ten", "(", "10", ")", "days", "after", "full", "execution", "of", "this", "Agreement", "."],
+		"events":[
+			{
+				"index": [21,26]
+			},
+			{
+				"index": [0,12]
+			}
+		],
+		"timeunits":[
+            {
+                "index" : [13,20]
+            }
+        ]
+	}
+]

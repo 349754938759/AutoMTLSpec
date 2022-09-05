@@ -1,0 +1,195 @@
+[
+    {
+        "tokens": ["The", "applicability", "of", "this", "Agreement", "is", "subject", "to", "the", "approval", "of", "the", "financing", "terms", "to", "the", "Buyer", "by", "which", "should", "be", "processed", "within", "{", "loanProcessing", "}", "from", "the", "Effective", "Date", "of", "this", "Agreement", "(", "the", "``", "Financing", "Period", "''", ")", "."],
+        "events":[
+            {
+                "index": [27,40]
+            },
+            {
+                "index": [0,22]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [23,26]
+            }
+        ]
+    },
+    {
+        "tokens": ["Buyer", "will", "deposit", "directly", "to", "the", "Seller", ",", "after", "the", "date", "of", "effectivity", "of", "this", "Agreement", "."],
+        "events":[
+            {
+                "index": [0,7]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [9,16]
+            }
+        ]
+    },
+    {
+        "tokens": ["Within", "the", "period", "provided", ",", "Failure", "to", "deposit", "the", "earnest", "money", "shall", "result", "in", "default", "of", "the", "Buyer", "."],
+        "events":[
+            {
+                "index": [5,18]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,4]
+            }
+        ]
+    },
+    {
+        "tokens": ["The", "Buyer", "shall", "deliver", "to", "the", "Seller", "the", "notice", "of", "objection", "as", "to", "the", "defects", ",", "within", "{", "daysPeriod45", "}", "days", "."],
+        "events":[
+            {
+                "index": [0,15]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [17,21]
+            }
+        ]
+    },
+    {
+        "tokens": ["Within", "the", "period", "allowed", ",", "the", "failure", "of", "the", "buyer", "to", "provide", "a", "written", "objection", "shall", "be", "deemed", "as", "a", "waiver", "on", "the", "latter", "'s", "part", "to", "object", "to", "any", "of", "the", "report", "found", "by", "the", "inspector", "."],
+        "events":[
+            {
+                "index": [5,37]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,4]
+            }
+        ]
+    },
+    {
+        "tokens": ["Before", "the", "Closing", "Date", ",", "the", "Seller", "will", "accomplish", "all", "agreed", "work", ",", "repairs", ",", "or", "improvements", "unless", "both", "Parties", "agree", "otherwise", ";"],
+        "events":[
+            {
+                "index": [5,17]
+            },
+            {
+                "index": [18,22]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,4]
+            }
+        ]
+    },
+    {
+        "tokens": ["In", "case", "the", "Seller", "fails", "to", "complete", "the", "Work", "prior", "Closing", "Date", ",", "the", "Buyer", "may", "complete", "the", "non-completed", "work", "and", "which", "the", "Buyer", "shall", "be", "entitled", "for", "reimbursement", "."],
+        "events":[
+            {
+                "index": [2,9]
+            },
+            {
+                "index": [13,29]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [10,12]
+            }
+        ]
+    },
+    {
+        "tokens": ["Upon", "closing", ",", "the", "{", "whoShall46", "}", "will", "accomplish", "taxes", "on", "the", "Property", "."],
+        "events":[
+            {
+                "index": [3,13]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,2]
+            }
+        ]
+    },
+    {
+        "tokens": ["As", "agreed", "by", "the", "parties", "herein", ",", "the", "Seller", "shall", "pay", "on", "or", "before", "closing", "the", "following", ",", "unless", "the", "Parties", "present", "another", "written", "agreement", "."],
+        "events":[
+            {
+                "index": [0,11]
+            },
+            {
+                "index": [19,25]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [14,17]
+            }
+        ]
+    },
+    {
+        "tokens": ["The", "Buyer", "shall", "pay", "on", "or", "before", "closing", "the", "following", "unless", "both", "parties", "present", "other", "written", "agreement", "."],
+        "events":[
+            {
+                "index": [0,4]
+            },
+            {
+                "index": [11,17]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [7,10]
+            }
+        ]
+    },
+    {
+        "tokens": ["If", "any", "claim", "or", "controversy", "arises", "in", "relation", "to", "this", "Agreement", "and", "by", "which", "such", "controversy", "fails", "to", "be", "resolved", "into", "an", "amicable", "settlement", ",", "within", "30", "days", "the", "parties", "shall", "submit", "the", "dispute", "before", "a", "mediator", "."],
+        "events":[
+            {
+                "index": [1,24]
+            },
+            {
+                "index": [28,37]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [26,28]
+            }
+        ]
+    },
+    {
+        "tokens": ["In", "the", "event", "that", "any", "action", "is", "instituted", "by", "any", "Party", "to", "this", "Agreement", ",", "the", "prevailing", "Party", "shall", "be", "entitled", "to", "reasonable", "attorney", "'s", "fees", "and", "other", "costs", "incurred", "during", "the", "proceedings", "."],
+        "events":[
+            {
+                "index": [4,14]
+            },
+            {
+                "index": [15,30]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [31,33]
+            }
+        ]
+    },
+    {
+        "tokens": ["The", "seller", "holds", "true", "and", "correct", "all", "representations", "and", "warrants", "upon", "the", "sale", "of", "the", "subject", "Property", "attaches", "no", "liens", "or", "encumbrances", "as", "of", "the", "date", "this", "Agreement", "was", "made", "up", "to", "the", "closing", "date", "."],
+        "events":[
+            {
+                "index": [0,22]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [24,31]
+            },
+            {
+                "index" : [32,35]
+            }
+        ]
+    }
+]

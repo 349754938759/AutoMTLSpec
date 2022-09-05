@@ -1,0 +1,82 @@
+[
+	{
+		"tokens": ["____", "will", "be", "promptly", "delivered", "to", "Escrow", "Agent", "no", "later", "than", "5:00", "PM", ",", "three", "(", "3", ")", "calendar", "days", "after", "the", "Acceptance", "Date", "."],
+		"events":[
+			{
+				"index": [21,24]
+			},
+			{
+				"index": [0,8]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [11,20]
+			}
+    	]
+	},
+	{
+		"tokens": ["Taxes", "for", "___", "prior", "years", "and", "any", "special", "assessments", "approved", "must", "be", "paid", "by", "Seller", "at", "or", "before", "closing", "."],
+		"events":[
+			{
+				"index": [0,15]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [18,19]
+			}
+    	]
+	},
+	{
+		"tokens": ["If", "Seller", "does", "not", "agree", "to", "perform", "such", "repairs", ",", "or", "does", "not", "reply", "within", "the", "time", "limit", ",", "this", "Agreement", "will", "cancel", "and", "all", "Earnest", "Money", "must", "be", "refunded", "to", "Buyer", "."],
+		"events":[
+			{
+				"index": [1,14]
+			},
+			{
+				"index": [19,32]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [15,18]
+			}
+    	]
+	},
+	{
+		"tokens": ["All", "inspections", "and", "investigations", "must", "be", "completed", "with", "response", "to", "Seller", "no", "later", "than", "5:00", "PM", ",", "ten", "(", "10", ")", "calendar", "days", "after", "the", "Acceptance", "Date", "."],
+		"events":[
+			{
+				"index": [24,27]
+			},
+			{
+				"index": [0,11]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [14,23]
+			}
+    	]
+	},
+	{
+		"tokens": ["If", "it", "is", "discovered", "that", "any", "permanent", "structure", "on", "the", "property", "has", "an", "active", "wood", "destroying", "insect", "infestation", "during", "the", "Due", "Diligence", "Period", ",", "the", "Seller", ",", "upon", "Buyer", "'s", "request", ",", "must", "professionally", "treat", "infestation", "before", "closing", "at", "Seller", "'s", "expense", "."],
+		"events":[
+			{
+				"index": [1,18]
+			},
+			{
+				"index": [24,36]
+			},
+			{
+				"index": [37,42]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [19,23]
+			}
+    	]
+	}
+]

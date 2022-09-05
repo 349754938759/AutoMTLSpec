@@ -1,0 +1,186 @@
+[
+	{
+		"tokens": ["Buyer", "shall", "provide", "Seller", "written", "third", "(", "3rd", ")", "party", "documentation", "verifying", "sufficient", "funds", "to", "close", "no", "later", "than", "_______", "."],
+		"events":[
+			{
+				"index": [0,16]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [19,20]
+			}
+    	]
+	},
+	{
+		"tokens": ["Therefore", ",", "such", "Seller", "Financing", "is", "contingent", "upon", "Seller", "'", "s", "approval", "of", "the", "requested", "documentation", "to", "be", "provided", "on", "or", "before", "________", "."],
+		"events":[
+			{
+				"index": [0,19]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [22,23]
+			}
+    	]
+	},
+	{
+		"tokens": ["In", "the", "event", "Buyer", "fails", "to", "obtain", "Seller", "'s", "approval", ",", "this", "Agreement", "shall", "be", "terminated", "with", "any", "amounts", "previously", "paid", "under", "this", "Agreement", "refunded", "within", "____", "business", "days", "."],
+		"events":[
+			{
+				"index": [3,10]
+			},
+			{
+				"index": [11,25]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [26,29]
+			}
+    	]
+	},
+	{
+		"tokens": ["After", "acceptance", "by", "all", "Parties", ",", "the", "Buyer", "agrees", "to", "make", "a", "payment", "in", "the", "amount", "of", "$", "_______________", "(", "``", "Earnest", "Money", "''", ")", "as", "consideration", "no", "later", "than", "___________", "."],
+		"events":[
+			{
+				"index": [1,5]
+			},
+			{
+				"index": [6,27]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [30,31]
+			}
+    	]
+	},
+	{
+		"tokens": ["G.Seller", "has", "neither", "knowledge", "nor", "notice", "of", "any", "pending", "public", "agency", "hearings", "or", "appeals", "affecting", "the", "Property", "and", "will", "promptly", "notify", "Buyer", "if", "Seller", "receives", "notice", "or", "learns", "of", "any", "such", "hearings", "between", "the", "signing", "of", "this", "Agreement", "and", "the", "date", "of", "the", "Closing", "."],
+		"events":[
+			{
+				"index": [23,32]
+			},
+			{
+				"index": [0,22]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [33,38]
+			},
+			{
+				"index" : [39,44]
+			}
+    	]
+	},
+	{
+		"tokens": ["If", "Buyer", "and", "Seller", "are", "unable", "to", "reach", "an", "agreement", "regarding", "fixing", "or", "remedying", "the", "unsatisfactory", "conditions", "no", "later", "than", "______", ",", "Buyer", "shall", "have", "the", "right", "to", "terminate", "this", "Agreement", "and", "be", "refunded", "any", "amounts", "previously", "paid", "under", "this", "Agreement", "."],
+		"events":[
+			{
+				"index": [1,17]
+			},
+			{
+				"index": [22,41]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [20,21]
+			}
+    	]
+	},
+	{
+		"tokens": ["Prior", "to", "the", "Closing", ",", "the", "Parties", "agree", "to", "authorize", "all", "necessary", "documents", ",", "in", "good", "faith", ",", "in", "order", "to", "record", "the", "transaction", "under", "the", "conditions", "required", "by", "the", "recorder", ",", "title", "company", ",", "lender", ",", "or", "any", "other", "public", "or", "private", "entity", "."],
+		"events":[
+			{
+				"index": [5,44]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [2,4]
+			}
+    	]
+	},
+	{
+		"tokens": ["On", "or", "before", "the", "Closing", ",", "Seller", "shall", "pay", "half", "of", "any", "escrow", "or", "closing", "fees", "."],
+		"events":[
+			{
+				"index": [6,16]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [3,5]
+			}
+    	]
+	},
+	{
+		"tokens": ["In", "the", "event", "this", "Agreement", "is", "terminated", ",", "as", "provided", "in", "this", "Agreement", ",", "absent", "of", "default", ",", "the", "Buyer", "shall", "be", "refunded", "any", "amounts", "previously", "paid", ",", "in", "full", ",", "within", "____", "business", "days", "."],
+		"events":[
+			{
+				"index": [3,17]
+			},
+			{
+				"index": [18,31]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [32,35]
+			}
+    	]
+	},
+	{
+		"tokens": ["Seller", "assumes", "the", "risk", "of", "loss", "or", "damage", "by", "fire", ",", "natural", "disaster", "or", "other", "casualties", "to", "the", "Property", "until", "the", "Closing", "."],
+		"events":[
+			{
+				"index": [0,19]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [20,22]
+			}
+    	]
+	},
+	{
+		"tokens": ["In", "the", "event", "that", "all", "or", "a", "portion", "of", "the", "Property", "is", "destroyed", "or", "otherwise", "materially", "damaged", "prior", "to", "the", "Closing", ",", "the", "Buyer", "shall", "have", "the", "option", "to", "complete", "the", "Transaction", "and", "receive", "any", "insurance", "proceeds", "payable", "or", "terminate", "this", "Agreement", "and", "be", "refunded", "any", "amounts", "previously", "paid", "under", "this", "Agreement", "."],
+		"events":[
+			{
+				"index": [4,17]
+			},
+			{
+				"index": [22,52]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [19,21]
+			}
+    	]
+	},
+	{
+		"tokens": ["In", "the", "event", "a", "bankruptcy", "petition", "is", "filed", "naming", "Seller", "as", "a", "debtor", "under", "any", "Bankruptcy", "Code", ",", "between", "the", "signing", "of", "this", "Agreement", "and", "the", "Closing", ",", "then", "this", "Agreement", "shall", "be", "terminated", "and", "the", "Buyer", "shall", "be", "entitled", "to", "a", "refund", "of", "any", "and", "all", "sums", "paid", "under", "this", "Agreement", "."],
+		"events":[
+			{
+				"index": [3,17]
+			},
+			{
+				"index": [28,52]
+			}
+
+		],
+		"timeunits":[
+			{
+				"index" : [19,24]
+			},
+			{
+				"index" : [25,27]
+			}
+    	]
+	}
+]

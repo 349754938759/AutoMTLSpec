@@ -1,0 +1,111 @@
+[
+    {
+        "tokens": ["Within", "30", "days", "after", "the", "signing", "of", "this", "contract", ",", "the", "issue", "of", "duty-free", "paper", "."],
+        "events":[
+            {
+                "index": [4,9]
+            },
+            {
+                "index": [10,15]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,3]
+            }
+        ]
+    },
+    {
+        "tokens": ["The", "seller", "shall", "send", "full", "set", "of", "above-mentioned", "documents", "to", "the", "buyer", "in", "one", "lot", "by", "Air", "Courier", "within", "2", "days", "after", "shipment", "."],
+        "events":[
+            {
+                "index": [22,23]
+            },
+            {
+                "index": [0,18]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [2,21]
+            }
+        ]
+    },
+    {
+        "tokens": ["The", "guarantee", "period", "shall", "be", "12", "months", "counting", "from", "the", "date", "on", "which", "the", "commodity", "arrives", "at", "the", "port", "of", "destination", "."],
+        "events":[
+            {
+                "index": [0,8]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [9,21]
+            }
+        ]
+    },
+    {
+        "tokens": ["Within", "the", "guarantee", "period", "stipulated", "in", "Clause", "11", "of", "this", "Contract", ",", "if", "damages", "occur", "in", "the", "course", "of", "operation", "by", "reason", "of", "inferior", "quality", ",", "bad", "workmanship", "or", "the", "use", "of", "inferior", "materials", ",", "the", "Buyers", "shall", "immediately", "notify", "the", "Sellers", "in", "writing", "and", "put", "forward", "a", "claim", "supported", "by", "Inspection", "Certificate", "issued", "by", "Entry", "&", "Exit", "Inspection", "and", "Quarantine", "Bureau", "of", "China", "."],
+        "events":[
+            {
+                "index": [13,34]
+            },
+            {
+                "index": [35,64]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,11]
+            }
+        ]
+    },
+    {
+        "tokens": ["If", "the", "Sellers", "fail", "to", "answer", "the", "Buyers", "within", "one", "month", "after", "receipt", "of", "the", "aforesaid", "claim", ",", "the", "claim", "shall", "be", "reckoned", "as", "having", "been", "accepted", "by", "the", "Sellers", "."],
+        "events":[
+            {
+                "index": [12,17]
+            },
+            {
+                "index": [1,8]
+            },
+            {
+                "index": [18,30]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [9,11]
+            }
+        ]
+    },
+    {
+        "tokens": ["Within", "fourteen", "days", "thereafter", ",", "the", "Sellers", "shall", "send", "by", "airmail", "to", "the", "Buyers", "for", "their", "acceptance", "a", "certificate", "of", "the", "accident", "issued", "by", "the", "Competent", "Government", "Authorities", "where", "the", "accident", "occurs", "as", "evidence", "thereof", "."],
+        "events":[
+            {
+                "index": [5,35]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,4]
+            }
+        ]
+    },
+    {
+        "tokens": ["In", "case", "the", "Sellers", "fail", "to", "make", "delivery", "ten", "weeks", "later", "than", "the", "time", "of", "shipment", "stipulated", "in", "the", "Contract", ",", "the", "Buyers", "shall", "have", "the", "right", "to", "cancel", "the", "contract", "."],
+        "events":[
+            {
+                "index": [2,10]
+            },
+            {
+                "index": [21,31]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [12,20]
+            }
+        ]
+    }
+]

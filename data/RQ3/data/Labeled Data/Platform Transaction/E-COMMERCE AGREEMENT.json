@@ -1,0 +1,73 @@
+[
+    {
+        "tokens": ["Strategic", "Partner", "grants", "to", "the", "Company", "a", "non-exclusive", "right", "to", "promote", "Strategic", "Partner", "'s", "Products", "during", "the", "term", "of", "this", "Agreement", "."],
+        "events":[
+            {
+                "index": [0,15]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [16,21]
+            }
+        ]
+    },
+    {
+        "tokens": ["The", "initial", "term", "of", "this", "Agreement", "shall", "be", "one", "(", "1", ")", "year", "from", "the", "date", "hereof", "."],
+        "events":[
+            {
+                "index": [0,13]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [14,17]
+            }
+        ]
+    },
+    {
+        "tokens": ["Payments", "for", "the", "commission", "owed", "for", "all", "Products", "sold", "to", "Company", "Customers", "shall", "be", "made", "within", "30", "days", "after", "the", "close", "of", "the", "month", "in", "which", "purchases", "are", "made", "."],
+        "events":[
+            {
+                "index": [19,29]
+            },
+            {
+                "index": [0,15]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [16,18]
+            }
+        ]
+    },
+    {
+        "tokens": ["Strategic", "Partner", "shall", "provide", "to", "the", "Company", "a", "written", "commission", "report", "within", "30", "days", "after", "the", "close", "of", "each", "month", "."],
+        "events":[
+            {
+                "index": [15,20]
+            },
+            {
+                "index": [0,11]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [12,14]
+            }
+        ]
+    },
+    {
+        "tokens": ["Strategic", "Partner", "grants", "to", "the", "Company", "a", "worldwide", ",", "non-exclusive", ",", "royalty", "free", "license", "to", "produce", ",", "publicly", "publish", "and", "distribute", ",", "in", "both", "print", "and", "electronic", "form", ",", "the", "Strategic", "Partner", "Content", "during", "the", "term", "of", "this", "Agreement", "."],
+        "events":[
+            {
+                "index": [0,33]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [34,39]
+            }
+        ]
+    }
+]

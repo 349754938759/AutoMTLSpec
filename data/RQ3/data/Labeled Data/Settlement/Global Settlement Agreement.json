@@ -1,0 +1,34 @@
+[
+    {
+		"tokens": ["Within", "90", "days", "following", "the", "execution", "of", "this", "Agreement", ",", "at", "least", "93", "%", "of", "the", "Claimants", "identified", "in", "Appendix", "A", "shall", "agree", "to", "settle", "their", "Claims", ",", "sign", "a", "Release", ",", "and", "provide", "the", "signed", "Release", "to", "Federal", "Signal", "."],
+		"events":[
+			{
+				"index": [4,9]
+			},
+            {
+				"index": [10,40]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [1,3]
+			}
+    	]
+	},
+    {
+		"tokens": ["Within", "90", "days", "after", "execution", "of", "this", "agreement", ",", "the", "Firm", "shall", "return", "to", "Federal", "Signal", "all", "Federal", "Signal", "documents", "and", "Federal", "Signal", "electronic", "information", "in", "its", "possession", "that", "it", "has", "obtained", "in", "this", "litigation", ",", "regardless", "of", "how", "it", "obtained", "the", "documents", "or", "electronic", "information", "."],
+		"events":[
+			{
+				"index": [4,8]
+			},
+            {
+				"index": [9,46]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [1,3]
+			}
+    	]
+	}
+]

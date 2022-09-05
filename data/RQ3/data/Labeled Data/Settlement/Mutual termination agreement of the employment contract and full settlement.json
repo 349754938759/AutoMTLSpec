@@ -1,0 +1,15 @@
+[
+    {
+		"tokens": ["The", "amounts", "under", "point", "4.4", "and", "5.1", "above", "shall", "be", "paid", ",", "by", "bank", "transfer", "to", "the", "account", "specified", "by", "the", "Executive", ",", "subject", "to", "the", "previous", "execution", "of", "the", "Verbale", "di", "conciliazione", "under", "point", "11", "below", "within", "maximum", "30", "days", "from", "the", "Termination", "Date", "or", "the", "Date", "of", "Early", "Termination", "."],
+		"events":[
+            {
+				"index": [0,37]
+			}
+		],
+		"timeunits":[
+			{
+				"index" : [38,51]
+			}
+    	]
+	}
+]

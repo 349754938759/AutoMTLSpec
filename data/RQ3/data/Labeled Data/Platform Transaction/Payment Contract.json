@@ -1,0 +1,34 @@
+[
+    {
+        "tokens": ["The", "DEBTOR", "shall", "conform", "to", "the", "schedule", "set", "and", "shall", "pay", "to", "the", "CREDITOR", "before", "or", "upon", "due", "the", "amount", "as", "indicated", "on", "the", "Payments", "Schedule", "table", "."],
+        "events":[
+            {
+                "index": [0,14]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [17,27]
+            }
+        ]
+    },
+    {
+        "tokens": ["In", "the", "occurrence", "that", "the", "DEBTOR", "fails", "to", "render", "payment", "upon", "reaching", "fifteen", "(", "15", ")", "days", "after", "the", "scheduled", "payment", "plan", ",", "the", "full", "amount", "of", "the", "deficiency", "shall", "become", "due", "and", "demandable", "."],
+        "events":[
+            {
+                "index": [18,22]
+            },
+            {
+                "index": [4,10]
+            },
+            {
+                "index": [23,34]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [11,17]
+            }
+        ]
+    }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "tokens": ["Tenant", "shall", "deposit", "with", "Landlord", "the", "sum", "of", "DOLLARS", "(", "$", ")", "receipt", "of", "which", "is", "hereby", "acknowledged", "by", "Landlord", ",", "as", "security", "for", "any", "damage", "caused", "to", "the", "Premises", "during", "the", "term", "hereof", "."],
+    "events": [
+      {
+        "index": [0,30]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [31,34]
+      }
+    ]
+  },
+  {
+    "tokens": ["The", "Premises", "shall", "be", "used", "and", "occupied", "by", "Tenant", "and", "Tenant", "'s", "immediate", "family", ",", "consisting", "of", ",", "exclusively", ",", "as", "a", "private", "single", "family", "dwelling", ",", "and", "no", "part", "of", "the", "Premises", "shall", "be", "used", "by", "Tenant", "for", "the", "purpose", "of", "carrying", "on", "any", "business", ",", "profession", ",", "or", "trade", "of", "any", "kind", ",", "or", "for", "any", "purpose", "other", "than", "as", "a", "private", "single", "family", "dwelling", "at", "any", "time", "during", "the", "term", "of", "this", "Agreement", "."],
+    "events": [
+      {
+        "index": [0,70]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [71,76]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "possession", "is", "tendered", "within", "such", "time", ",", "Tenant", "agrees", "to", "accept", "the", "demised", "Premises", "and", "pay", "the", "rental", "herein", "provided", "."],
+    "events": [
+      {
+        "index": [1,4]
+      },
+      {
+        "index": [8,21]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [5,7]
+      }
+    ]
+  },
+  {
+    "tokens": ["In", "the", "event", "possession", "can", "not", "be", "delivered", "within", "such", "time", ",", "then", "this", "Agreement", "and", "all", "rights", "hereunder", "shall", "terminate", "."],
+    "events": [
+      {
+        "index": [3,8]
+      },
+      {
+        "index": [12,21]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [9,11]
+      }
+    ]
+  },
+  {
+    "tokens": ["Tenant", "will", ",", "at", "its", "sole", "expense", ",", "keep", "and", "maintain", "the", "Premises", "and", "appurtenances", "in", "good", "and", "sanitary", "condition", "and", "repair", "during", "the", "term", "of", "this", "Agreement", "."],
+    "events": [
+      {
+        "index": [0,22]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [23,28]
+      }
+    ]
+  },
+  {
+    "tokens": ["Landlord", "and", "Landlord", "'s", "agents", "shall", "have", "the", "right", "at", "all", "reasonable", "times", "during", "the", "term", "of", "this", "Agreement", "."],
+    "events": [
+      {
+        "index": [0,13]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [14,19]
+      }
+    ]
+  },
+  {
+    "tokens": ["Landlord", "and", "its", "agents", "shall", "further", "have", "the", "right", "to", "exhibit", "the", "Premises", "and", "to", "display", "the", "usual", "``", "for", "sale", "''", ",", "``", "for", "rent", "''", "or", "``", "vacancy", "''", "signs", "on", "the", "Premises", "at", "any", "time", "within", "forty-", "five", "(", "45", ")", "days", "before", "the", "expiration", "of", "this", "Lease", "."],
+    "events": [
+      {
+        "index": [0,38]
+      },
+      {
+        "index": [46,51]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [39,45]
+      }
+    ]
+  },
+  {
+    "tokens": ["Upon", "the", "expiration", "of", "the", "term", "hereof", ",", "Tenant", "shall", "surrender", "the", "Premises", "in", "as", "good", "a", "state", "and", "condition", "as", "they", "were", "at", "the", "commencement", "of", "this", "Agreement", ",", "reasonable", "use", "and", "wear", "and", "tear", "thereof", "and", "damages", "by", "the", "elements", "excepted", "."],
+    "events": [
+      {
+        "index": [8,43]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [1,7]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "Tenant", "fails", "to", "comply", "with", "any", "of", "the", "material", "provisions", "of", "this", "Agreement", ",", "other", "than", "the", "covenant", "to", "pay", "rent", ",", "or", "of", "any", "present", "rules", "and", "regulations", "or", "any", "that", "may", "be", "hereafter", "prescribed", "by", "Landlord", ",", "or", "materially", "fails", "to", "comply", "with", "any", "duties", "imposed", "on", "Tenant", "by", "statute", ",", "within", "seven", "(", "7", ")", "days", "after", "delivery", "of", "written", "notice", "by", "Landlord", "specifying", "the", "non-compliance", "and", "indicating", "the", "intention", "of", "Landlord", "to", "terminate", "the", "Lease", "by", "reason", "thereof", ",", "Landlord", "may", "terminate", "this", "Agreement", "."],
+    "events": [
+      {
+        "index": [60,83]
+      },
+      {
+        "index": [1,53]
+      },
+      {
+        "index": [84,89]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [55,60]
+      }
+    ]
+  },
+  {
+    "tokens": ["In", "the", "event", "that", "any", "payment", "required", "to", "be", "paid", "by", "Tenant", "hereunder", "is", "not", "made", "within", "three", "(", "3", ")", "days", ",", "Tenant", "shall", "pay", "to", "Landlord", ",", "in", "addition", "to", "such", "payment", "or", "other", "charges", "due", "hereunder", ",", "a", "``", "late", "fee", "''", "in", "the", "amount", "of", "DOLLARS", "(", "$", ")", "."],
+    "events": [
+      {
+        "index": [4,16]
+      },
+      {
+        "index": [23,53]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [17,22]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "Tenant", "abandons", "the", "Premises", "or", "any", "part", "thereof", "at", "any", "time", "during", "the", "term", "of", "this", "Agreement", ",", "Landlord", "may", ",", "at", "Landlord", "'s", "option", ",", "obtain", "possession", "of", "the", "Premises", "in", "the", "manner", "provided", "by", "law", ",", "and", "without", "becoming", "liable", "to", "Tenant", "for", "damages", "or", "for", "any", "payment", "of", "any", "kind", "whatever", "."],
+    "events": [
+      {
+        "index": [1,9]
+      },
+      {
+        "index": [19,55]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [13,18]
+      }
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "tokens": ["The", "term", "of", "this", "Agreement", "shall", "be", "a", "period", "of", "one", "(", "1", ")", "year", ",", "between", "____", "and", "_____", "."],
+    "events": [
+      {
+        "index": [0,15]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [17,18]
+      },
+      {
+        "index": [19,20]
+      }
+    ]
+  },
+  {
+    "tokens": ["Written", "notice", "of", "termination", "is", "to", "be", "given", "by", "either", "party", "before", "the", "designated", "date", "of", "termination", "."],
+    "events": [
+      {
+        "index": [0,11]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [12,17]
+      }
+    ]
+  },
+  {
+    "tokens": ["To", "Landlord", "'s", "knowledge", ",", "this", "house", "was", "built", "before", "1978", "."],
+    "events": [
+      {
+        "index": [0,9]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [10,11]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "so", "performed", "by", "Landlord", ",", "Tenant", "shall", "reimburse", "Landlord", "for", "the", "cost", "of", "such", "work", "within", "ten", "(", "10", ")", "days", "after", "written", "notice", "."],
+    "events": [
+      {
+        "index": [23,25]
+      },
+      {
+        "index": [1,5]
+      },
+      {
+        "index": [6,16]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [17,22]
+      }
+    ]
+  },
+  {
+    "tokens": ["Tenant", "fails", "to", "pay", "rent", "or", "any", "other", "charges", "due", "under", "this", "Agreement", "within", "ten", "(", "10", ")", "days", "after", "the", "due", "date", "."],
+    "events": [
+      {
+        "index": [20,23]
+      },
+      {
+        "index": [0,13]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [14,19]
+      }
+    ]
+  },
+  {
+    "tokens": ["Tenant", "fails", "to", "cure", "the", "same", "within", "five", "(", "5", ")", "days", "after", "written", "notice", "thereof", "from", "Landlord", "."],
+    "events": [
+      {
+        "index": [13,18]
+      },
+      {
+        "index": [0,6]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [7,12]
+      }
+    ]
+  },
+  {
+    "tokens": ["Tenant", "shall", "inspect", "and", "certify", "that", "the", "Premises", "has", "a", "working", "smoke", "detector", "or", "detectors", "within", "three", "(", "3", ")", "days", "after", "taking", "possession", "thereof", "."],
+    "events": [
+      {
+        "index": [22,25]
+      },
+      {
+        "index": [0,15]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [16,21]
+      }
+    ]
+  }
+]

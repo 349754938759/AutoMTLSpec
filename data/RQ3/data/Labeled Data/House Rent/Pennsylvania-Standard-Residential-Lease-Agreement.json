@@ -1,0 +1,76 @@
+[
+  {
+    "tokens": ["If", "the", "landlord", "or", "tenant", "does", "not", "want", "to", "renew", "the", "lease", ",", "he", "must", "give", "the", "other", "days", "written", "notice", "before", "the", "end", "of", "the", "term", "."],
+    "events": [
+      {
+        "index": [1,12]
+      },
+      {
+        "index": [13,21]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [22,27]
+      }
+    ]
+  },
+  {
+    "tokens": ["After", "the", "first", "year", ",", "the", "landlord", "must", "reduce", "the", "security", "deposit", "to", "no", "more", "than", "one", "month", "'s", "rent", "."],
+    "events": [
+      {
+        "index": [5,20]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [1,4]
+      }
+    ]
+  },
+  {
+    "tokens": ["The", "LANDLORD", "can", "deduct", "these", "charges", ",", "if", "any", ",", "from", "the", "security", "deposit", "and", "will", "return", "the", "balance", "within", "(", "30", ")", "thirty", "days", "."],
+    "events": [
+      {
+        "index": [0,19]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [20,25]
+      }
+    ]
+  },
+  {
+    "tokens": ["If", "the", "tenant", "fails", "to", "pay", "any", "one-month", "'s", "rent", "before", "the", "due", "date", ",", "the", "LANDLORD", "may", "end", "this", "lease", "immediately", "and", "file", "a", "lawsuit", "to", "evict", "the", "tenant", "."],
+    "events": [
+      {
+        "index": [1,10]
+      },
+      {
+        "index": [15,30]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [11,14]
+      }
+    ]
+  },
+  {
+    "tokens": ["The", "property", "will", "be", "considered", "abandoned", "by", "the", "tenant", "if", "the", "tenant", "leaves", "personal", "belongings", "in", "the", "property", "after", "the", "end", "of", "the", "lease", "."],
+    "events": [
+      {
+        "index": [10,18]
+      },
+      {
+        "index": [0,9]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [19,24]
+      }
+    ]
+  }
+]

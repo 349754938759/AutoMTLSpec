@@ -1,0 +1,57 @@
+[
+    {
+        "tokens": ["The", "annual", "accounting", "of", "the", "PARTNERSHIP", "shall", "occur", "at", "a", "time", "determined", "by", "the", "PARTNERS", "within", "the", "first", "meeting", "of", "each", "calendar", "year", "."],
+        "events":[
+            {
+                "index": [0,15]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [16,23]
+            }
+        ]
+    },
+    {
+        "tokens": ["Prior", "to", "termination", "of", "the", "PARTNERSHIP", ",", "all", "PARTNERS", "are", "to", "be", "advised", ",", "in", "writing", ",", "that", "termination", "is", "being", "considered", "prior", "to", "termination", "days", "."],
+        "events":[
+            {
+                "index": [7,22]
+            },
+            {
+                "index": [2,6]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [24,26]
+            }
+        ]
+    },
+    {
+        "tokens": ["All", "assets", "shall", "be", "distributed", "accordingly", "to", "all", "PARTNERS", "upon", "the", "termination", "of", "the", "PARTNERSHIP", "."],
+        "events":[
+            {
+                "index": [0,9]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [10,15]
+            }
+        ]
+    },
+    {
+        "tokens": ["Payments", "shall", "be", "made", "to", "the", "bank", "accounts", "of", "record", "for", "each", "PARTNER", ",", "upon", "dissolution", "of", "the", "PARTNERSHIP", "."],
+        "events":[
+            {
+                "index": [0,13]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [15,19]
+            }
+        ]
+    }
+]

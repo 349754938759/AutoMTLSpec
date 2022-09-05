@@ -1,0 +1,44 @@
+[
+    {
+        "tokens": ["This", "clause", "shall", "survive", "and", "continue", "during", "and", "after", "the", "expiration", "or", "termination", "of", "this", "Agreement", "."],
+        "events":[
+            {
+                "index": [0,8]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [9,16]
+            }
+        ]
+    },
+    {
+        "tokens": ["Within", "five", "(", "5", ")", "years", "after", "the", "expiration", "of", "this", "agreement", ",", "the", "Receiving", "Party", "understands", "and", "agrees", "to", "not", "be", "involved", "directly", "or", "indirectly", ",", "in", "activities", "that", "are", "in", "competition", "with", "the", "Disclosing", "Party", "."],
+        "events":[
+            {
+                "index": [7,12]
+            },
+            {
+                "index": [13,37]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [1,6]
+            }
+        ]
+    },
+    {
+        "tokens": ["Upon", "termination", "of", "this", "Agreement", ",", "all", "Confidential", "Information", "disclosed", "under", "this", "Agreement", "shall", "be", "returned", "to", "the", "Disclosing", "Party", "."],
+        "events":[
+            {
+                "index": [1,5]
+            }
+        ],
+        "timeunits":[
+            {
+                "index" : [6,20]
+            }
+        ]
+    }
+]

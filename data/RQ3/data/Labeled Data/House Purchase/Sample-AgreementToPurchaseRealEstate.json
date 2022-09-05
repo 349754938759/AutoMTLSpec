@@ -1,0 +1,60 @@
+[
+	{
+		"tokens": ["If", "such", "financing", "can", "not", "be", "obtained", "within", "the", "time", "specified", "above", "then", "either", ",", "Purchaser", "or", "Seller", "may", "terminate", "this", "agreement", "and", "any", "earnest", "money", "deposited", "by", "Purchaser", "will", "be", "promptly", "refunded", "."],
+		"events":[
+			{
+				"index": [1,7]
+			},
+			{
+				"index": [15,33]
+			}
+		],
+		"timeunits":[
+            {
+                "index" : [8,14]
+            }
+        ]
+	},
+	{
+		"tokens": ["purchaser", "shall", "pay", "any", "and", "all", "payments", "coming", "due", "after", "the", "closing", "of", "the", "sale", "."],
+		"events":[
+			{
+				"index": [0,9]
+			}
+		],
+		"timeunits":[
+            {
+                "index" : [10,15]
+            }
+        ]
+	},
+	{
+		"tokens": ["Prior", "to", "the", "closing", "of", "the", "sale", "the", "risk", "of", "loss", "by", "destruction", "or", "damage", "to", "the", "property", "by", "fire", "or", "otherwise", "is", "that", "of", "Seller", "."],
+		"events":[
+			{
+				"index": [7,26]
+			}
+		],
+		"timeunits":[
+            {
+                "index" : [2,7]
+            }
+        ]
+	},
+	{
+		"tokens": ["This", "offer", "is", "void", "if", "not", "accepted", "by", "Seller", "in", "writing", "on", "or", "before", "____", "A.M./P.M.of", "the", "___", "day", "of", "____", ",", "20", "___", "."],
+		"events":[
+			{
+				"index": [5,11]
+			},
+			{
+				"index": [0,4]
+			}
+		],
+		"timeunits":[
+            {
+                "index" : [14,24]
+            }
+        ]
+	}
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "tokens": ["Within", "21", "days", "of", "the", "TENANT", "vacating", "the", "premises", ",", "LANDLORD", "shall", "furnish", "TENANT", "a", "written", "statement", "indicating", "any", "amounts", "deducted", "from", "the", "security", "deposit", "and", "returning", "the", "balance", "to", "the", "TENANT", "."],
+    "events": [
+      {
+        "index": [4,9]
+      },
+      {
+        "index": [10,32]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [1,3]
+      }
+    ]
+  },
+  {
+    "tokens": ["LANDLORD", "may", "enter", "and", "inspect", "the", "premises", "during", "normal", "business", "hours", "."],
+    "events": [
+      {
+        "index": [0,7]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [8,11]
+      }
+    ]
+  },
+  {
+    "tokens": ["On", "or", "after", "July", "1", ",", "2018", ",", "for", "residential", "leases", "entered", "into", ",", "the", "landlord", "must", "incorporate", "the", "following", "disclosures", "into", "the", "lease", "in", "type", "no", "smaller", "than", "8-point", "font", ":"],
+    "events": [
+      {
+        "index": [8,31]
+      }
+    ],
+    "timeunits": [
+      {
+        "index": [3,7]
+      }
+    ]
+  }
+]
